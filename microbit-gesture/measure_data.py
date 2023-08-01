@@ -7,7 +7,7 @@ _num_samples = const(100)
 _delay = const(5)
 _threshold = const(100000)
 # columns of data we are measuring
-cols = [a+'_'+b for a in ['min', 'max', 'peaks', 'mean', 'std'] for b in ['x', 'y', 'z']]
+cols = [kind+'_'+dim for kind in ['min', 'max', 'peaks', 'mean', 'std'] for dim in ['x', 'y', 'z']]
 log.set_labels(*cols)
 c = 0
 while True:
