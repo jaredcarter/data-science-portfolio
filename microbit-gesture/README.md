@@ -17,7 +17,7 @@ With the hardware selected, I was left with three distinct tasks:
 1. Train a machine learning model using the measured data
 1. Implement the model on the micro:bit to detect gestures
 
-Each of these steps will be explained in the sections below.
+I will describe the first step below.
 
 ## Measure training and testing data on the micro:bit
 In order to measure the training and testing data using the accelerometer of the micro:bit, we will need to write some MicroPython.
@@ -26,3 +26,13 @@ Alternatively, you could grab the most recent [micro:bit firmware](https://githu
 
 Micro:bit  sensors, inputs, and outputs are accessible via the well-documented micro:bit  Micropython API.
 The heart of our measurement script will be the `microbit.accelorometer.get_values()` function documented [here](https://microbit-micropython.readthedocs.io/en/v2-docs/accelerometer.html#microbit.accelerometer.get_values) which returns the acceleration in X, Y, and Z directions.
+The code for measuring this data is [measure_data.py](measure_data.py) and is hosted in this folder.
+
+Instead of simply streaming the raw accelerometer data into the model, we will instead calculate some descriptive statistics on the accelerometer data, then use those readings to classify the gesture type.
+In my experience this produced more reliable results.
+
+When a measurement is started, 100 acceleration measurements are taken in each dimension, for a total of 300 measurements.
+Then for each dimension, the minimum, maximum, number of peaks, mean, and standard deviation of those 100 measurements is computed.
+These 15 data points (5 calculated points times 3 dimensions) are recorded and will be the training data for our model.
+
+I leverage the [log module](https://microbit-micropython.readthedocs.io/en/v2-docs/log.html) to save the measurements for one gesture to a csv file that can be used to train the model.
