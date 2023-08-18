@@ -35,4 +35,14 @@ When a measurement is started, 100 acceleration measurements are taken in each d
 Then for each dimension, the minimum, maximum, number of peaks, mean, and standard deviation of those 100 measurements is computed.
 These 15 data points (5 calculated points times 3 dimensions) are recorded and will be the training data for our model.
 
+## Logging the data
+
 I leverage the [log module](https://microbit-micropython.readthedocs.io/en/v2-docs/log.html) to save the measurements for one gesture to a csv file that can be used to train the model.
+Here is a gif of the data logging in action
+
+![I press Enter on the keyboard then move the micro:bit to record a measurement](media/circle.gif)
+
+After recording multiple measurements for a single gesture, I access the data by disconnecting and reconnecting the micro:bit.
+Then I can open the micro:bit's file system in file explorer and open `DATA.HTM`, which looks something like this.
+
+![Measurement data available for download off the micro:bit](media/log.png)
