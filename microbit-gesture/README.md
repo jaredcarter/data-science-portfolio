@@ -38,11 +38,37 @@ These 15 data points (5 calculated points times 3 dimensions) are recorded and w
 ## Logging the data
 
 I leverage the [log module](https://microbit-micropython.readthedocs.io/en/v2-docs/log.html) to save the measurements for one gesture to a csv file that can be used to train the model.
-Here is a gif of the data logging in action
+Here is a gif of the data logging in action for a "circle" gesture.
 
 ![I press Enter on the keyboard then move the micro:bit to record a measurement](media/circle.gif)
 
-After recording multiple measurements for a single gesture, I access the data by disconnecting and reconnecting the micro:bit.
+After recording twenty measurements for a single gesture, I access the data by disconnecting and reconnecting the micro:bit.
 Then I can open the micro:bit's file system in file explorer and open `DATA.HTM`, which looks something like this.
 
 ![Measurement data available for download off the micro:bit](media/log.png)
+
+I then download this data as a .csv file and repeat the process for different gestures.
+For the purposes of this project I created data for the following gestures:
+
+- no move
+- circle
+- z
+- w
+- flick
+
+## Training the machine learning model
+Now we are ready to train the machine learning model on our measured data!
+For this part we will need `pandas`, `sklearn`, `m2cgen`, and `matplotlib`.
+
+[m2cgen](https://github.com/BayesWitnesses/m2cgen) is a model to code generator, allowing us to export our trained model as pure python code that will run on the micro:bit.
+This is the only package on the list that isn't built into Anaconda, so you might have to run `!pip install m2cgen` at the top of the notebook if it's not already installed.
+Then all of the packages can be imported like so:
+
+```python
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeClassifier, plot_tree
+import m2cgen as m2c
+import matplotlib.pyplot as plt
+```
+
