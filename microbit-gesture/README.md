@@ -72,3 +72,73 @@ import m2cgen as m2c
 import matplotlib.pyplot as plt
 ```
 
+Now we have to import the data.
+This done by making a list of the files we downloaded from the microbit, then loading them into pandas dataframes.
+Finally each measurement is assigned a label to identify the type of gesture and all of the different gestures are concatenated into a single dataframe.
+
+```python
+#######################
+##### Change this #####
+files = ['no_move.csv',
+         'circle.csv',
+         'z.csv',
+         'w.csv',
+         'flick.csv'
+        ]
+######################
+
+# List motions without file extensions
+motions = [x[:-4] for x in files]
+
+# Initialize an empty list to hold each file
+dfs = []
+# Go through each file
+for i,file in enumerate(files):
+    # Read the data into Pandas
+    df = pd.read_csv('data/'+file)
+    df = df.drop('Time (seconds)', axis=1)
+    df['label'] = i
+    dfs.append(df)
+d = pd.concat(dfs, ignore_index=True)
+```
+
+In order to evaluate how well our model will perform in the "real world" we need to have testing data that the model has never seen before.
+The easiset way to do this is to separate all of our measurements into a "training" portion and a "testing" portion.
+That is what the `train_test_split()` function does.
+
+```python
+X_train, X_test, y_train, y_test = train_test_split(d.drop('label', axis=1).values, d['label'].values, test_size=0.2)
+```
+
+With our training data ready, we can train the model.
+For this machine learning model, we will use a decision tree classifier. A decision tree classifier works somewhat like the game 20 questions: the computer asks yes or no questions about the data. Based on the response, the computer will ask different questions until it's reasonably sure of the answer. These different Yes/No chains kind of look look like a tree, hence the name decision tree classifier.
+
+Since the only information the model has access to are the 15 data points for each run, the yes/no questions are all in the form of inequalities (e.g Is the max acceleration in the z direction >= 1688?).
+
+```python
+# Tell the computer we want a decision tree classifier
+dtc = DecisionTreeClassifier()
+# Use the training data to train the model
+dtc = dtc.fit(X_train, y_train)
+```
+
+We can visualize the decision tree classifier as a series of boxes that each ask a single question.
+If the answer is yes, follow the arrow that goes down and to the left.
+If the answer is no, follow the arrow that goes down and to the right.
+Keep going until there are no more arrows to follow, then look at the "class" to determine the gesture type!
+
+![Decision tree classifier visualization](media/dtc.svg)
+
+Last, we need to export the model as pure python code that can run on the micro:bit.
+This is possible using `m2cgen`:
+
+```python
+# convert model to pure python code
+code = m2c.export_to_python(dtc)
+# save converted model as .py file
+with open('model.py', 'w') as f:
+    # save list of motions to model file
+    f.write(f"{motions = }\n")
+    # save decision tree function to model file
+    f.write(code)
+```
