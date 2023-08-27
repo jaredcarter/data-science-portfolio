@@ -142,3 +142,47 @@ with open('model.py', 'w') as f:
     # save decision tree function to model file
     f.write(code)
 ```
+
+## Deploying the model
+
+### Loading the model
+Now that the model is trained on the data we measured from the device, we are ready to load the model onto the micro:bit.
+First, use the code editor to load the `model.py` module that was created in the previous step on to the micro:bit.
+
+In the [online micro:bit Python editor](https://python.microbit.org/v/3), the file can be added to the device by selecting Project > Open.
+After selecting your file, be sure to select "Add file model.py" instead of the default "Replace main code with model.py" by clicking on the file icon.
+Otherwise, you risk overwriting code that you are currently working on.
+See the image below for an example.
+
+![Uploading the model to the microbit using the online Python editor](media/upload_online.png)
+
+To upload the file using Thonny, connect to the micro:bit, then select File > Save As, and click the option to save the file to the micro:bit.
+The image below shows where to click:
+
+![Uploading the model to the micro:bit using Thonny](media/upload_thonny.png)
+
+### Predicting motion
+The final step in the process is to write code so the micro:bit can use the model we just loaded to predict motion based on the accelerometer data.
+This code is found in the [predict_motion.py](predict_motion.py) file.
+Since this program will measure data from the accelerometers in the same way the [measure_data.py](measure_data.py) program, we will focus on the differences here.
+
+In the `predict_motion.py` file, the following lines enable the program to return the best guess for the gesture.
+
+```python
+# names of motions
+motions = model.motions
+def result(v):
+    # get result from model
+    res = model.score(v)
+    # find index of most likely motion
+    i = res.index(max(res))
+    # return name and confidence of motion
+    return (motions[i], res[i])
+```
+
+The motions that were defined when we trained the model were saved to the `motions` variable in the `model.py`.
+Next, the result function is defined to make the output more user-friendly.
+The unedited result of the model returns a list indicating the confidence of the result, *e.g.* `[1.0, 0.0, 0.0, 0.0, 0.0]` would indicate a high confidence in the first gesture and a low confidence in the other measured gestures.
+Instead of returning this list, we determine the maximum value in the list, then return the name of the gesture that corresponds with this measurement.
+
+With these files loaded on the micro:bit, it can now measure acceleration data, feed that data into the model, and have the model identify the gesture.

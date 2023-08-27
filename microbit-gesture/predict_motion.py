@@ -8,7 +8,7 @@ _num_samples = const(100)
 _delay = const(5)
 _threshold = const(100000)
 # names of motions
-motions = ['no move', 'circle', 'z', 'w', 'flick']
+motions = model.motions
 def result(v):
     # get result from model
     res = model.score(v)
