@@ -163,3 +163,5 @@ cython_debug/
 *.mov
 # Gimp source images
 *.xcf
+# Python secrets
+config_secrets.py
