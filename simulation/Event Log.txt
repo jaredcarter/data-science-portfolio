@@ -1,0 +1,2644 @@
+6	Guest 1 arrived. ECV=False.
+15	Guest 2 arrived. ECV=False.
+25	Guest 3 arrived. ECV=True.
+34	Guest 4 arrived. ECV=False.
+44	Guest 5 arrived. ECV=False.
+49	Guest 6 arrived. ECV=False.
+55	Guest 7 arrived. ECV=False.
+61	Guest 8 arrived. ECV=False.
+71	Guest 9 arrived. ECV=False.
+76	Guest 10 arrived. ECV=False.
+82	Guest 11 arrived. ECV=False.
+89	Guest 12 arrived. ECV=False.
+97	Guest 13 arrived. ECV=False.
+105	Guest 14 arrived. ECV=False.
+114	Guest 15 arrived. ECV=False.
+121	Guest 16 arrived. ECV=False.
+130	Guest 17 arrived. ECV=False.
+136	Guest 18 arrived. ECV=False.
+143	Guest 19 arrived. ECV=False.
+149	Guest 20 arrived. ECV=False.
+158	Guest 21 arrived. ECV=False.
+165	Guest 22 arrived. ECV=False.
+173	Guest 23 arrived. ECV=False.
+179	Guest 24 arrived. ECV=False.
+186	Guest 25 arrived. ECV=False.
+193	Guest 26 arrived. ECV=False.
+199	Guest 27 arrived. ECV=False.
+204	Guest 28 arrived. ECV=False.
+210	Guest 29 arrived. ECV=False.
+220	Guest 30 arrived. ECV=False.
+225	Guest 31 arrived. ECV=False.
+235	Guest 32 arrived. ECV=False.
+240	Guest 33 arrived. ECV=False.
+246	Guest 34 arrived. ECV=False.
+254	Guest 35 arrived. ECV=False.
+261	Guest 36 arrived. ECV=False.
+270	Guest 37 arrived. ECV=False.
+276	Guest 38 arrived. ECV=False.
+281	Guest 39 arrived. ECV=False.
+288	Guest 40 arrived. ECV=False.
+295	Guest 41 arrived. ECV=False.
+303	Guest 42 arrived. ECV=False.
+313	Guest 43 arrived. ECV=False.
+323	Guest 44 arrived. ECV=False.
+331	Guest 45 arrived. ECV=False.
+339	Guest 46 arrived. ECV=False.
+344	Guest 47 arrived. ECV=False.
+350	Guest 48 arrived. ECV=False.
+355	Guest 49 arrived. ECV=False.
+361	Guest 50 arrived. ECV=False.
+368	Guest 51 arrived. ECV=False.
+373	Guest 52 arrived. ECV=False.
+382	Guest 53 arrived. ECV=False.
+390	Guest 54 arrived. ECV=False.
+398	Guest 55 arrived. ECV=False.
+405	Guest 56 arrived. ECV=False.
+411	Guest 57 arrived. ECV=False.
+417	Guest 58 arrived. ECV=False.
+420	Bus 1 with 50 seats arrived.
+420	Loading bus 1
+420	Guest1 is loading onto bus 1.
+421	Guest2 is loading onto bus 1.
+422	Guest3 is loading onto bus 1.
+425	Guest 59 arrived. ECV=False.
+432	Guest 60 arrived. ECV=False.
+438	Guest 61 arrived. ECV=False.
+448	Guest 62 arrived. ECV=False.
+456	Guest 63 arrived. ECV=False.
+466	Guest 64 arrived. ECV=False.
+472	Guest 65 arrived. ECV=False.
+482	Guest 66 arrived. ECV=False.
+487	Guest 67 arrived. ECV=False.
+495	Guest 68 arrived. ECV=False.
+502	Guest 69 arrived. ECV=False.
+510	Guest 70 arrived. ECV=False.
+518	Guest 71 arrived. ECV=False.
+527	Guest 72 arrived. ECV=False.
+537	Guest 73 arrived. ECV=False.
+542	Guest4 is loading onto bus 1.
+543	Guest5 is loading onto bus 1.
+544	Guest 74 arrived. ECV=False.
+544	Guest6 is loading onto bus 1.
+545	Guest7 is loading onto bus 1.
+546	Guest8 is loading onto bus 1.
+547	Guest9 is loading onto bus 1.
+548	Guest10 is loading onto bus 1.
+549	Guest 75 arrived. ECV=False.
+549	Guest11 is loading onto bus 1.
+550	Guest12 is loading onto bus 1.
+551	Guest13 is loading onto bus 1.
+552	Guest14 is loading onto bus 1.
+553	Guest15 is loading onto bus 1.
+554	Guest 76 arrived. ECV=False.
+554	Guest16 is loading onto bus 1.
+555	Guest17 is loading onto bus 1.
+556	Guest18 is loading onto bus 1.
+557	Guest19 is loading onto bus 1.
+558	Guest20 is loading onto bus 1.
+559	Guest21 is loading onto bus 1.
+560	Guest 77 arrived. ECV=False.
+560	Guest22 is loading onto bus 1.
+561	Guest23 is loading onto bus 1.
+562	Guest24 is loading onto bus 1.
+563	Guest25 is loading onto bus 1.
+564	Guest26 is loading onto bus 1.
+565	Guest27 is loading onto bus 1.
+566	Guest28 is loading onto bus 1.
+567	Guest 78 arrived. ECV=False.
+567	Guest29 is loading onto bus 1.
+568	Guest30 is loading onto bus 1.
+569	Guest31 is loading onto bus 1.
+570	Guest32 is loading onto bus 1.
+571	Guest33 is loading onto bus 1.
+572	Guest34 is loading onto bus 1.
+573	Guest35 is loading onto bus 1.
+574	Guest36 is loading onto bus 1.
+575	Guest 79 arrived. ECV=False.
+575	Guest37 is loading onto bus 1.
+576	Guest38 is loading onto bus 1.
+577	Guest39 is loading onto bus 1.
+578	Guest40 is loading onto bus 1.
+579	Guest41 is loading onto bus 1.
+580	Guest42 is loading onto bus 1.
+581	Guest 80 arrived. ECV=False.
+581	Guest43 is loading onto bus 1.
+582	Guest44 is loading onto bus 1.
+583	Guest45 is loading onto bus 1.
+584	Guest46 is loading onto bus 1.
+585	Guest47 is loading onto bus 1.
+586	Guest 81 arrived. ECV=False.
+586	Guest48 is loading onto bus 1.
+587	 bus 1 is departing the loading zone with guests 1 to 48.
+595	Guest 82 arrived. ECV=False.
+604	Guest 83 arrived. ECV=False.
+612	Guest 84 arrived. ECV=False.
+622	Guest 85 arrived. ECV=False.
+631	Guest 86 arrived. ECV=False.
+638	Guest 87 arrived. ECV=False.
+645	Guest 88 arrived. ECV=False.
+653	Guest 89 arrived. ECV=False.
+658	Guest 90 arrived. ECV=False.
+664	Guest 91 arrived. ECV=False.
+674	Guest 92 arrived. ECV=False.
+684	Guest 93 arrived. ECV=False.
+690	Guest 94 arrived. ECV=False.
+695	Guest 95 arrived. ECV=False.
+705	Guest 96 arrived. ECV=False.
+711	Guest 97 arrived. ECV=False.
+721	Guest 98 arrived. ECV=False.
+726	Guest 99 arrived. ECV=False.
+736	Guest 100 arrived. ECV=False.
+744	Guest 101 arrived. ECV=False.
+754	Guest 102 arrived. ECV=False.
+760	Guest 103 arrived. ECV=False.
+769	Guest 104 arrived. ECV=False.
+778	Guest 105 arrived. ECV=False.
+787	Guest 106 arrived. ECV=False.
+797	Guest 107 arrived. ECV=False.
+803	Guest 108 arrived. ECV=False.
+813	Guest 109 arrived. ECV=False.
+820	Guest 110 arrived. ECV=False.
+830	Guest 111 arrived. ECV=False.
+835	Guest 112 arrived. ECV=False.
+840	Bus 2 with 40 seats arrived.
+840	Loading bus 2
+840	Guest49 is loading onto bus 2.
+841	Guest50 is loading onto bus 2.
+842	Guest 113 arrived. ECV=False.
+842	Guest51 is loading onto bus 2.
+843	Guest52 is loading onto bus 2.
+844	Guest53 is loading onto bus 2.
+845	Guest54 is loading onto bus 2.
+846	Guest55 is loading onto bus 2.
+847	Guest56 is loading onto bus 2.
+848	Guest57 is loading onto bus 2.
+849	Guest58 is loading onto bus 2.
+850	Guest 114 arrived. ECV=False.
+850	Guest59 is loading onto bus 2.
+851	Guest60 is loading onto bus 2.
+852	Guest61 is loading onto bus 2.
+853	Guest62 is loading onto bus 2.
+854	Guest63 is loading onto bus 2.
+855	Guest 115 arrived. ECV=False.
+855	Guest64 is loading onto bus 2.
+856	Guest65 is loading onto bus 2.
+857	Guest66 is loading onto bus 2.
+858	Guest67 is loading onto bus 2.
+859	Guest68 is loading onto bus 2.
+860	Guest69 is loading onto bus 2.
+861	Guest70 is loading onto bus 2.
+862	Guest71 is loading onto bus 2.
+863	Guest72 is loading onto bus 2.
+864	Guest73 is loading onto bus 2.
+865	Guest 116 arrived. ECV=False.
+865	Guest74 is loading onto bus 2.
+866	Guest75 is loading onto bus 2.
+867	Guest76 is loading onto bus 2.
+868	Guest77 is loading onto bus 2.
+869	Guest78 is loading onto bus 2.
+870	Guest 117 arrived. ECV=False.
+870	Guest79 is loading onto bus 2.
+871	Guest80 is loading onto bus 2.
+872	Guest81 is loading onto bus 2.
+873	Guest82 is loading onto bus 2.
+874	Guest83 is loading onto bus 2.
+875	Guest84 is loading onto bus 2.
+876	Guest85 is loading onto bus 2.
+877	Guest86 is loading onto bus 2.
+878	Guest 118 arrived. ECV=False.
+878	Guest87 is loading onto bus 2.
+879	Guest88 is loading onto bus 2.
+880	 bus 2 is departing the loading zone with guests 49 to 88.
+886	Guest 119 arrived. ECV=False.
+892	Guest 120 arrived. ECV=False.
+898	Guest 121 arrived. ECV=False.
+903	Guest 122 arrived. ECV=False.
+912	Guest 123 arrived. ECV=False.
+917	Guest 124 arrived. ECV=False.
+923	Guest 125 arrived. ECV=False.
+929	Guest 126 arrived. ECV=False.
+938	Guest 127 arrived. ECV=False.
+948	Guest 128 arrived. ECV=False.
+958	Guest 129 arrived. ECV=False.
+968	Guest 130 arrived. ECV=True.
+978	Guest 131 arrived. ECV=False.
+985	Guest 132 arrived. ECV=False.
+991	Guest 133 arrived. ECV=False.
+997	Guest 134 arrived. ECV=False.
+1002	Guest 135 arrived. ECV=False.
+1010	Guest 136 arrived. ECV=False.
+1017	Guest 137 arrived. ECV=False.
+1023	Guest 138 arrived. ECV=False.
+1033	Guest 139 arrived. ECV=False.
+1039	Guest 140 arrived. ECV=False.
+1044	Guest 141 arrived. ECV=False.
+1054	Guest 142 arrived. ECV=False.
+1061	Guest 143 arrived. ECV=False.
+1069	Guest 144 arrived. ECV=False.
+1075	Guest 145 arrived. ECV=False.
+1083	Guest 146 arrived. ECV=False.
+1088	Guest 147 arrived. ECV=False.
+1096	Guest 148 arrived. ECV=False.
+1105	Guest 149 arrived. ECV=False.
+1112	Guest 150 arrived. ECV=False.
+1118	Guest 151 arrived. ECV=False.
+1126	Guest 152 arrived. ECV=False.
+1132	Guest 153 arrived. ECV=False.
+1142	Guest 154 arrived. ECV=False.
+1149	Guest 155 arrived. ECV=False.
+1155	Guest 156 arrived. ECV=False.
+1165	Guest 157 arrived. ECV=False.
+1170	Guest 158 arrived. ECV=False.
+1180	Guest 159 arrived. ECV=False.
+1186	Guest 160 arrived. ECV=False.
+1196	Guest 161 arrived. ECV=False.
+1206	Guest 162 arrived. ECV=False.
+1215	Guest 163 arrived. ECV=False.
+1221	Guest 164 arrived. ECV=False.
+1228	Guest 165 arrived. ECV=False.
+1237	Guest 166 arrived. ECV=False.
+1243	Guest 167 arrived. ECV=False.
+1253	Guest 168 arrived. ECV=False.
+1260	Bus 3 with 40 seats arrived.
+1260	Loading bus 3
+1260	Guest89 is loading onto bus 3.
+1261	Guest90 is loading onto bus 3.
+1262	Guest91 is loading onto bus 3.
+1263	Guest 169 arrived. ECV=False.
+1263	Guest92 is loading onto bus 3.
+1264	Guest93 is loading onto bus 3.
+1265	Guest94 is loading onto bus 3.
+1266	Guest95 is loading onto bus 3.
+1267	Guest96 is loading onto bus 3.
+1268	Guest97 is loading onto bus 3.
+1269	Guest 170 arrived. ECV=False.
+1269	Guest98 is loading onto bus 3.
+1270	Guest99 is loading onto bus 3.
+1271	Guest100 is loading onto bus 3.
+1272	Guest101 is loading onto bus 3.
+1273	Guest102 is loading onto bus 3.
+1274	Guest 171 arrived. ECV=False.
+1274	Guest103 is loading onto bus 3.
+1275	Guest104 is loading onto bus 3.
+1276	Guest105 is loading onto bus 3.
+1277	Guest106 is loading onto bus 3.
+1278	Guest107 is loading onto bus 3.
+1279	Guest108 is loading onto bus 3.
+1280	Guest 172 arrived. ECV=False.
+1280	Guest109 is loading onto bus 3.
+1281	Guest110 is loading onto bus 3.
+1282	Guest111 is loading onto bus 3.
+1283	Guest112 is loading onto bus 3.
+1284	Guest113 is loading onto bus 3.
+1285	Guest114 is loading onto bus 3.
+1286	Guest115 is loading onto bus 3.
+1287	Guest116 is loading onto bus 3.
+1288	Guest117 is loading onto bus 3.
+1289	Guest118 is loading onto bus 3.
+1290	Guest 173 arrived. ECV=False.
+1290	Guest119 is loading onto bus 3.
+1291	Guest120 is loading onto bus 3.
+1292	Guest121 is loading onto bus 3.
+1293	Guest122 is loading onto bus 3.
+1294	Guest123 is loading onto bus 3.
+1295	Guest124 is loading onto bus 3.
+1296	Guest125 is loading onto bus 3.
+1297	Guest126 is loading onto bus 3.
+1298	Guest 174 arrived. ECV=True.
+1298	Guest127 is loading onto bus 3.
+1299	Guest128 is loading onto bus 3.
+1300	 bus 3 is departing the loading zone with guests 89 to 128.
+1307	Guest 175 arrived. ECV=False.
+1314	Guest 176 arrived. ECV=False.
+1322	Guest 177 arrived. ECV=False.
+1330	Guest 178 arrived. ECV=False.
+1337	Guest 179 arrived. ECV=False.
+1343	Guest 180 arrived. ECV=False.
+1351	Guest 181 arrived. ECV=False.
+1359	Guest 182 arrived. ECV=False.
+1364	Guest 183 arrived. ECV=False.
+1372	Guest 184 arrived. ECV=False.
+1380	Guest 185 arrived. ECV=False.
+1389	Guest 186 arrived. ECV=False.
+1394	Guest 187 arrived. ECV=False.
+1402	Guest 188 arrived. ECV=False.
+1408	Guest 189 arrived. ECV=False.
+1413	Guest 190 arrived. ECV=False.
+1418	Guest 191 arrived. ECV=False.
+1427	Guest 192 arrived. ECV=False.
+1434	Guest 193 arrived. ECV=False.
+1440	Guest 194 arrived. ECV=False.
+1447	Guest 195 arrived. ECV=False.
+1453	Guest 196 arrived. ECV=False.
+1462	Guest 197 arrived. ECV=False.
+1470	Guest 198 arrived. ECV=False.
+1478	Guest 199 arrived. ECV=False.
+1484	Guest 200 arrived. ECV=False.
+1492	Guest 201 arrived. ECV=False.
+1502	Guest 202 arrived. ECV=False.
+1509	Guest 203 arrived. ECV=True.
+1514	Guest 204 arrived. ECV=False.
+1520	Guest 205 arrived. ECV=False.
+1530	Guest 206 arrived. ECV=False.
+1537	Guest 207 arrived. ECV=False.
+1542	Guest 208 arrived. ECV=False.
+1547	Guest 209 arrived. ECV=False.
+1553	Guest 210 arrived. ECV=False.
+1560	Guest 211 arrived. ECV=False.
+1565	Guest 212 arrived. ECV=False.
+1570	Guest 213 arrived. ECV=False.
+1578	Guest 214 arrived. ECV=False.
+1584	Guest 215 arrived. ECV=False.
+1589	Guest 216 arrived. ECV=False.
+1597	Guest 217 arrived. ECV=False.
+1603	Guest 218 arrived. ECV=False.
+1612	Guest 219 arrived. ECV=False.
+1619	Guest 220 arrived. ECV=False.
+1625	Guest 221 arrived. ECV=False.
+1634	Guest 222 arrived. ECV=False.
+1639	Guest 223 arrived. ECV=False.
+1648	Guest 224 arrived. ECV=False.
+1655	Guest 225 arrived. ECV=False.
+1664	Guest 226 arrived. ECV=False.
+1669	Guest 227 arrived. ECV=False.
+1675	Guest 228 arrived. ECV=False.
+1680	Bus 4 with 40 seats arrived.
+1680	Loading bus 4
+1680	Guest129 is loading onto bus 4.
+1681	Guest130 is loading onto bus 4.
+1682	Guest 229 arrived. ECV=False.
+1690	Guest 230 arrived. ECV=False.
+1699	Guest 231 arrived. ECV=False.
+1706	Guest 232 arrived. ECV=False.
+1711	Guest 233 arrived. ECV=False.
+1717	Guest 234 arrived. ECV=False.
+1724	Guest 235 arrived. ECV=False.
+1733	Guest 236 arrived. ECV=False.
+1741	Guest 237 arrived. ECV=False.
+1747	Guest 238 arrived. ECV=False.
+1755	Guest 239 arrived. ECV=False.
+1761	Guest 240 arrived. ECV=False.
+1767	Guest 241 arrived. ECV=False.
+1773	Guest 242 arrived. ECV=False.
+1778	Guest 243 arrived. ECV=False.
+1788	Guest 244 arrived. ECV=False.
+1796	Guest 245 arrived. ECV=False.
+1801	Guest131 is loading onto bus 4.
+1802	Guest132 is loading onto bus 4.
+1803	Guest133 is loading onto bus 4.
+1804	Guest 246 arrived. ECV=False.
+1804	Guest134 is loading onto bus 4.
+1805	Guest135 is loading onto bus 4.
+1806	Guest136 is loading onto bus 4.
+1807	Guest137 is loading onto bus 4.
+1808	Guest138 is loading onto bus 4.
+1809	Guest139 is loading onto bus 4.
+1810	Guest 247 arrived. ECV=False.
+1810	Guest140 is loading onto bus 4.
+1811	Guest141 is loading onto bus 4.
+1812	Guest142 is loading onto bus 4.
+1813	Guest143 is loading onto bus 4.
+1814	Guest144 is loading onto bus 4.
+1815	Guest 248 arrived. ECV=False.
+1815	Guest145 is loading onto bus 4.
+1816	Guest146 is loading onto bus 4.
+1817	Guest147 is loading onto bus 4.
+1818	Guest148 is loading onto bus 4.
+1819	Guest149 is loading onto bus 4.
+1820	Guest 249 arrived. ECV=False.
+1820	Guest150 is loading onto bus 4.
+1821	Guest151 is loading onto bus 4.
+1822	Guest152 is loading onto bus 4.
+1823	Guest153 is loading onto bus 4.
+1824	Guest154 is loading onto bus 4.
+1825	Guest155 is loading onto bus 4.
+1826	Guest156 is loading onto bus 4.
+1827	Guest157 is loading onto bus 4.
+1828	Guest158 is loading onto bus 4.
+1829	Guest159 is loading onto bus 4.
+1830	Guest 250 arrived. ECV=False.
+1830	Guest160 is loading onto bus 4.
+1831	Guest161 is loading onto bus 4.
+1832	Guest162 is loading onto bus 4.
+1833	Guest163 is loading onto bus 4.
+1834	Guest164 is loading onto bus 4.
+1835	Guest165 is loading onto bus 4.
+1836	Guest 251 arrived. ECV=False.
+1836	Guest166 is loading onto bus 4.
+1837	 bus 4 is departing the loading zone with guests 129 to 166.
+1843	Guest 252 arrived. ECV=False.
+1853	Guest 253 arrived. ECV=False.
+1863	Guest 254 arrived. ECV=False.
+1869	Guest 255 arrived. ECV=False.
+1877	Guest 256 arrived. ECV=False.
+1885	Guest 257 arrived. ECV=False.
+1891	Guest 258 arrived. ECV=False.
+1900	Guest 259 arrived. ECV=False.
+1905	Guest 260 arrived. ECV=False.
+1911	Guest 261 arrived. ECV=False.
+1918	Guest 262 arrived. ECV=False.
+1928	Guest 263 arrived. ECV=False.
+1933	Guest 264 arrived. ECV=False.
+1941	Guest 265 arrived. ECV=False.
+1946	Guest 266 arrived. ECV=False.
+1953	Guest 267 arrived. ECV=False.
+1963	Guest 268 arrived. ECV=False.
+1971	Guest 269 arrived. ECV=False.
+1980	Guest 270 arrived. ECV=False.
+1985	Guest 271 arrived. ECV=False.
+1991	Guest 272 arrived. ECV=False.
+1999	Guest 273 arrived. ECV=False.
+2005	Guest 274 arrived. ECV=False.
+2013	Guest 275 arrived. ECV=False.
+2019	Guest 276 arrived. ECV=False.
+2025	Guest 277 arrived. ECV=False.
+2033	Guest 278 arrived. ECV=False.
+2038	Guest 279 arrived. ECV=False.
+2045	Guest 280 arrived. ECV=False.
+2051	Guest 281 arrived. ECV=False.
+2056	Guest 282 arrived. ECV=False.
+2063	Guest 283 arrived. ECV=False.
+2070	Guest 284 arrived. ECV=False.
+2078	Guest 285 arrived. ECV=False.
+2086	Guest 286 arrived. ECV=False.
+2095	Guest 287 arrived. ECV=False.
+2100	Bus 5 with 40 seats arrived.
+2100	Loading bus 5
+2100	Guest167 is loading onto bus 5.
+2101	Guest168 is loading onto bus 5.
+2102	Guest169 is loading onto bus 5.
+2103	Guest170 is loading onto bus 5.
+2104	Guest171 is loading onto bus 5.
+2105	Guest 288 arrived. ECV=False.
+2105	Guest172 is loading onto bus 5.
+2106	Guest173 is loading onto bus 5.
+2107	Guest174 is loading onto bus 5.
+2114	Guest 289 arrived. ECV=False.
+2121	Guest 290 arrived. ECV=False.
+2129	Guest 291 arrived. ECV=False.
+2135	Guest 292 arrived. ECV=False.
+2140	Guest 293 arrived. ECV=False.
+2146	Guest 294 arrived. ECV=False.
+2156	Guest 295 arrived. ECV=False.
+2164	Guest 296 arrived. ECV=False.
+2174	Guest 297 arrived. ECV=False.
+2180	Guest 298 arrived. ECV=False.
+2190	Guest 299 arrived. ECV=False.
+2195	Guest 300 arrived. ECV=False.
+2205	Guest 301 arrived. ECV=False.
+2215	Guest 302 arrived. ECV=False.
+2223	Guest 303 arrived. ECV=False.
+2227	Guest175 is loading onto bus 5.
+2228	Guest176 is loading onto bus 5.
+2229	Guest 304 arrived. ECV=False.
+2229	Guest177 is loading onto bus 5.
+2230	Guest178 is loading onto bus 5.
+2231	Guest179 is loading onto bus 5.
+2232	Guest180 is loading onto bus 5.
+2233	Guest181 is loading onto bus 5.
+2234	Guest 305 arrived. ECV=False.
+2234	Guest182 is loading onto bus 5.
+2235	Guest183 is loading onto bus 5.
+2236	Guest184 is loading onto bus 5.
+2237	Guest185 is loading onto bus 5.
+2238	Guest186 is loading onto bus 5.
+2239	Guest 306 arrived. ECV=False.
+2239	Guest187 is loading onto bus 5.
+2240	Guest188 is loading onto bus 5.
+2241	Guest189 is loading onto bus 5.
+2242	Guest190 is loading onto bus 5.
+2243	Guest191 is loading onto bus 5.
+2244	Guest192 is loading onto bus 5.
+2245	Guest193 is loading onto bus 5.
+2246	Guest 307 arrived. ECV=False.
+2246	Guest194 is loading onto bus 5.
+2247	Guest195 is loading onto bus 5.
+2248	Guest196 is loading onto bus 5.
+2249	Guest197 is loading onto bus 5.
+2250	Guest198 is loading onto bus 5.
+2251	Guest199 is loading onto bus 5.
+2252	Guest200 is loading onto bus 5.
+2253	Guest201 is loading onto bus 5.
+2254	Guest202 is loading onto bus 5.
+2255	Guest203 is loading onto bus 5.
+2256	Guest 308 arrived. ECV=False.
+2264	Guest 309 arrived. ECV=False.
+2270	Guest 310 arrived. ECV=False.
+2275	Guest 311 arrived. ECV=False.
+2283	Guest 312 arrived. ECV=False.
+2291	Guest 313 arrived. ECV=False.
+2299	Guest 314 arrived. ECV=False.
+2307	Guest 315 arrived. ECV=False.
+2312	Guest 316 arrived. ECV=False.
+2318	Guest 317 arrived. ECV=False.
+2328	Guest 318 arrived. ECV=False.
+2334	Guest 319 arrived. ECV=False.
+2343	Guest 320 arrived. ECV=False.
+2349	Guest 321 arrived. ECV=False.
+2357	Guest 322 arrived. ECV=False.
+2363	Guest 323 arrived. ECV=False.
+2369	Guest 324 arrived. ECV=False.
+2375	 bus 5 is departing the loading zone with guests 167 to 203.
+2377	Guest 325 arrived. ECV=False.
+2383	Guest 326 arrived. ECV=False.
+2392	Guest 327 arrived. ECV=False.
+2401	Guest 328 arrived. ECV=False.
+2407	Guest 329 arrived. ECV=False.
+2412	Guest 330 arrived. ECV=False.
+2422	Guest 331 arrived. ECV=False.
+2430	Guest 332 arrived. ECV=False.
+2437	Guest 333 arrived. ECV=False.
+2443	Guest 334 arrived. ECV=False.
+2449	Guest 335 arrived. ECV=False.
+2456	Guest 336 arrived. ECV=False.
+2464	Guest 337 arrived. ECV=False.
+2473	Guest 338 arrived. ECV=False.
+2482	Guest 339 arrived. ECV=False.
+2491	Guest 340 arrived. ECV=False.
+2498	Guest 341 arrived. ECV=False.
+2506	Guest 342 arrived. ECV=False.
+2511	Guest 343 arrived. ECV=False.
+2518	Guest 344 arrived. ECV=False.
+2520	Bus 6 with 50 seats arrived.
+2520	Loading bus 6
+2520	Guest204 is loading onto bus 6.
+2521	Guest205 is loading onto bus 6.
+2522	Guest206 is loading onto bus 6.
+2523	Guest 345 arrived. ECV=False.
+2523	Guest207 is loading onto bus 6.
+2524	Guest208 is loading onto bus 6.
+2525	Guest209 is loading onto bus 6.
+2526	Guest210 is loading onto bus 6.
+2527	Guest211 is loading onto bus 6.
+2528	Guest 346 arrived. ECV=False.
+2528	Guest212 is loading onto bus 6.
+2529	Guest213 is loading onto bus 6.
+2530	Guest214 is loading onto bus 6.
+2531	Guest215 is loading onto bus 6.
+2532	Guest216 is loading onto bus 6.
+2533	Guest217 is loading onto bus 6.
+2534	Guest218 is loading onto bus 6.
+2535	Guest219 is loading onto bus 6.
+2536	Guest220 is loading onto bus 6.
+2537	Guest221 is loading onto bus 6.
+2538	Guest 347 arrived. ECV=False.
+2538	Guest222 is loading onto bus 6.
+2539	Guest223 is loading onto bus 6.
+2540	Guest224 is loading onto bus 6.
+2541	Guest225 is loading onto bus 6.
+2542	Guest226 is loading onto bus 6.
+2543	Guest227 is loading onto bus 6.
+2544	Guest228 is loading onto bus 6.
+2545	Guest229 is loading onto bus 6.
+2546	Guest230 is loading onto bus 6.
+2547	Guest 348 arrived. ECV=False.
+2547	Guest231 is loading onto bus 6.
+2548	Guest232 is loading onto bus 6.
+2549	Guest233 is loading onto bus 6.
+2550	Guest234 is loading onto bus 6.
+2551	Guest235 is loading onto bus 6.
+2552	Guest236 is loading onto bus 6.
+2553	Guest 349 arrived. ECV=False.
+2553	Guest237 is loading onto bus 6.
+2554	Guest238 is loading onto bus 6.
+2555	Guest239 is loading onto bus 6.
+2556	Guest240 is loading onto bus 6.
+2557	Guest241 is loading onto bus 6.
+2558	Guest242 is loading onto bus 6.
+2559	Guest243 is loading onto bus 6.
+2560	Guest244 is loading onto bus 6.
+2561	Guest245 is loading onto bus 6.
+2562	Guest246 is loading onto bus 6.
+2563	Guest 350 arrived. ECV=False.
+2563	Guest247 is loading onto bus 6.
+2564	Guest248 is loading onto bus 6.
+2565	Guest249 is loading onto bus 6.
+2566	Guest250 is loading onto bus 6.
+2567	Guest251 is loading onto bus 6.
+2568	Guest252 is loading onto bus 6.
+2569	Guest253 is loading onto bus 6.
+2570	Guest 351 arrived. ECV=False.
+2570	 bus 6 is departing the loading zone with guests 204 to 253.
+2576	Guest 352 arrived. ECV=False.
+2582	Guest 353 arrived. ECV=False.
+2592	Guest 354 arrived. ECV=False.
+2597	Guest 355 arrived. ECV=False.
+2603	Guest 356 arrived. ECV=False.
+2610	Guest 357 arrived. ECV=False.
+2616	Guest 358 arrived. ECV=False.
+2626	Guest 359 arrived. ECV=False.
+2632	Guest 360 arrived. ECV=False.
+2642	Guest 361 arrived. ECV=False.
+2648	Guest 362 arrived. ECV=False.
+2657	Guest 363 arrived. ECV=False.
+2664	Guest 364 arrived. ECV=False.
+2674	Guest 365 arrived. ECV=False.
+2681	Guest 366 arrived. ECV=False.
+2687	Guest 367 arrived. ECV=False.
+2696	Guest 368 arrived. ECV=False.
+2703	Guest 369 arrived. ECV=False.
+2712	Guest 370 arrived. ECV=False.
+2722	Guest 371 arrived. ECV=False.
+2727	Guest 372 arrived. ECV=False.
+2733	Guest 373 arrived. ECV=False.
+2742	Guest 374 arrived. ECV=False.
+2748	Guest 375 arrived. ECV=False.
+2758	Guest 376 arrived. ECV=False.
+2768	Guest 377 arrived. ECV=False.
+2776	Guest 378 arrived. ECV=False.
+2786	Guest 379 arrived. ECV=False.
+2794	Guest 380 arrived. ECV=False.
+2803	Guest 381 arrived. ECV=False.
+2811	Guest 382 arrived. ECV=False.
+2820	Guest 383 arrived. ECV=False.
+2828	Guest 384 arrived. ECV=False.
+2836	Guest 385 arrived. ECV=False.
+2843	Guest 386 arrived. ECV=False.
+2851	Guest 387 arrived. ECV=False.
+2861	Guest 388 arrived. ECV=False.
+2870	Guest 389 arrived. ECV=False.
+2877	Guest 390 arrived. ECV=False.
+2883	Guest 391 arrived. ECV=False.
+2893	Guest 392 arrived. ECV=False.
+2903	Guest 393 arrived. ECV=False.
+2909	Guest 394 arrived. ECV=False.
+2915	Guest 395 arrived. ECV=False.
+2925	Guest 396 arrived. ECV=False.
+2931	Guest 397 arrived. ECV=False.
+2938	Guest 398 arrived. ECV=False.
+2940	Bus 7 with 50 seats arrived.
+2940	Loading bus 7
+2940	Guest254 is loading onto bus 7.
+2941	Guest255 is loading onto bus 7.
+2942	Guest256 is loading onto bus 7.
+2943	Guest 399 arrived. ECV=False.
+2943	Guest257 is loading onto bus 7.
+2944	Guest258 is loading onto bus 7.
+2945	Guest259 is loading onto bus 7.
+2946	Guest260 is loading onto bus 7.
+2947	Guest261 is loading onto bus 7.
+2948	Guest 400 arrived. ECV=False.
+2948	Guest262 is loading onto bus 7.
+2949	Guest263 is loading onto bus 7.
+2950	Guest264 is loading onto bus 7.
+2951	Guest265 is loading onto bus 7.
+2952	Guest266 is loading onto bus 7.
+2953	Guest267 is loading onto bus 7.
+2954	Guest268 is loading onto bus 7.
+2955	Guest269 is loading onto bus 7.
+2956	Guest270 is loading onto bus 7.
+2957	Guest 401 arrived. ECV=False.
+2957	Guest271 is loading onto bus 7.
+2958	Guest272 is loading onto bus 7.
+2959	Guest273 is loading onto bus 7.
+2960	Guest274 is loading onto bus 7.
+2961	Guest275 is loading onto bus 7.
+2962	Guest276 is loading onto bus 7.
+2963	Guest277 is loading onto bus 7.
+2964	Guest 402 arrived. ECV=False.
+2964	Guest278 is loading onto bus 7.
+2965	Guest279 is loading onto bus 7.
+2966	Guest280 is loading onto bus 7.
+2967	Guest281 is loading onto bus 7.
+2968	Guest282 is loading onto bus 7.
+2969	Guest283 is loading onto bus 7.
+2970	Guest 403 arrived. ECV=False.
+2970	Guest284 is loading onto bus 7.
+2971	Guest285 is loading onto bus 7.
+2972	Guest286 is loading onto bus 7.
+2973	Guest287 is loading onto bus 7.
+2974	Guest288 is loading onto bus 7.
+2975	Guest289 is loading onto bus 7.
+2976	Guest290 is loading onto bus 7.
+2977	Guest291 is loading onto bus 7.
+2978	Guest292 is loading onto bus 7.
+2979	Guest293 is loading onto bus 7.
+2980	Guest 404 arrived. ECV=False.
+2980	Guest294 is loading onto bus 7.
+2981	Guest295 is loading onto bus 7.
+2982	Guest296 is loading onto bus 7.
+2983	Guest297 is loading onto bus 7.
+2984	Guest298 is loading onto bus 7.
+2985	Guest299 is loading onto bus 7.
+2986	Guest300 is loading onto bus 7.
+2987	Guest301 is loading onto bus 7.
+2988	Guest302 is loading onto bus 7.
+2989	Guest303 is loading onto bus 7.
+2990	Guest 405 arrived. ECV=False.
+2990	 bus 7 is departing the loading zone with guests 254 to 303.
+2999	Guest 406 arrived. ECV=False.
+3004	Guest 407 arrived. ECV=False.
+3009	Guest 408 arrived. ECV=False.
+3014	Guest 409 arrived. ECV=False.
+3021	Guest 410 arrived. ECV=False.
+3027	Guest 411 arrived. ECV=False.
+3035	Guest 412 arrived. ECV=False.
+3044	Guest 413 arrived. ECV=False.
+3050	Guest 414 arrived. ECV=False.
+3059	Guest 415 arrived. ECV=False.
+3064	Guest 416 arrived. ECV=False.
+3072	Guest 417 arrived. ECV=False.
+3082	Guest 418 arrived. ECV=False.
+3088	Guest 419 arrived. ECV=False.
+3094	Guest 420 arrived. ECV=False.
+3103	Guest 421 arrived. ECV=False.
+3110	Guest 422 arrived. ECV=False.
+3120	Guest 423 arrived. ECV=False.
+3128	Guest 424 arrived. ECV=False.
+3133	Guest 425 arrived. ECV=False.
+3140	Guest 426 arrived. ECV=False.
+3150	Guest 427 arrived. ECV=False.
+3158	Guest 428 arrived. ECV=False.
+3163	Guest 429 arrived. ECV=False.
+3172	Guest 430 arrived. ECV=False.
+3182	Guest 431 arrived. ECV=False.
+3191	Guest 432 arrived. ECV=False.
+3196	Guest 433 arrived. ECV=False.
+3201	Guest 434 arrived. ECV=False.
+3209	Guest 435 arrived. ECV=False.
+3217	Guest 436 arrived. ECV=False.
+3226	Guest 437 arrived. ECV=False.
+3232	Guest 438 arrived. ECV=False.
+3237	Guest 439 arrived. ECV=False.
+3244	Guest 440 arrived. ECV=False.
+3253	Guest 441 arrived. ECV=False.
+3262	Guest 442 arrived. ECV=False.
+3270	Guest 443 arrived. ECV=False.
+3275	Guest 444 arrived. ECV=False.
+3281	Guest 445 arrived. ECV=False.
+3290	Guest 446 arrived. ECV=False.
+3299	Guest 447 arrived. ECV=False.
+3309	Guest 448 arrived. ECV=False.
+3314	Guest 449 arrived. ECV=False.
+3324	Guest 450 arrived. ECV=False.
+3332	Guest 451 arrived. ECV=False.
+3341	Guest 452 arrived. ECV=False.
+3348	Guest 453 arrived. ECV=False.
+3356	Guest 454 arrived. ECV=False.
+3360	Bus 8 with 50 seats arrived.
+3360	Loading bus 8
+3360	Guest304 is loading onto bus 8.
+3361	Guest305 is loading onto bus 8.
+3362	Guest306 is loading onto bus 8.
+3363	Guest 455 arrived. ECV=False.
+3363	Guest307 is loading onto bus 8.
+3364	Guest308 is loading onto bus 8.
+3365	Guest309 is loading onto bus 8.
+3366	Guest310 is loading onto bus 8.
+3367	Guest311 is loading onto bus 8.
+3368	Guest312 is loading onto bus 8.
+3369	Guest 456 arrived. ECV=False.
+3369	Guest313 is loading onto bus 8.
+3370	Guest314 is loading onto bus 8.
+3371	Guest315 is loading onto bus 8.
+3372	Guest316 is loading onto bus 8.
+3373	Guest317 is loading onto bus 8.
+3374	Guest318 is loading onto bus 8.
+3375	Guest319 is loading onto bus 8.
+3376	Guest320 is loading onto bus 8.
+3377	Guest321 is loading onto bus 8.
+3378	Guest 457 arrived. ECV=False.
+3378	Guest322 is loading onto bus 8.
+3379	Guest323 is loading onto bus 8.
+3380	Guest324 is loading onto bus 8.
+3381	Guest325 is loading onto bus 8.
+3382	Guest326 is loading onto bus 8.
+3383	Guest327 is loading onto bus 8.
+3384	Guest328 is loading onto bus 8.
+3385	Guest329 is loading onto bus 8.
+3386	Guest330 is loading onto bus 8.
+3387	Guest 458 arrived. ECV=False.
+3387	Guest331 is loading onto bus 8.
+3388	Guest332 is loading onto bus 8.
+3389	Guest333 is loading onto bus 8.
+3390	Guest334 is loading onto bus 8.
+3391	Guest335 is loading onto bus 8.
+3392	Guest 459 arrived. ECV=False.
+3392	Guest336 is loading onto bus 8.
+3393	Guest337 is loading onto bus 8.
+3394	Guest338 is loading onto bus 8.
+3395	Guest339 is loading onto bus 8.
+3396	Guest340 is loading onto bus 8.
+3397	Guest341 is loading onto bus 8.
+3398	Guest 460 arrived. ECV=False.
+3398	Guest342 is loading onto bus 8.
+3399	Guest343 is loading onto bus 8.
+3400	Guest344 is loading onto bus 8.
+3401	Guest345 is loading onto bus 8.
+3402	Guest346 is loading onto bus 8.
+3403	Guest347 is loading onto bus 8.
+3404	Guest348 is loading onto bus 8.
+3405	Guest 461 arrived. ECV=False.
+3405	Guest349 is loading onto bus 8.
+3406	Guest350 is loading onto bus 8.
+3407	Guest351 is loading onto bus 8.
+3408	Guest352 is loading onto bus 8.
+3409	Guest353 is loading onto bus 8.
+3410	 bus 8 is departing the loading zone with guests 304 to 353.
+3413	Guest 462 arrived. ECV=False.
+3421	Guest 463 arrived. ECV=False.
+3429	Guest 464 arrived. ECV=False.
+3437	Guest 465 arrived. ECV=False.
+3442	Guest 466 arrived. ECV=False.
+3451	Guest 467 arrived. ECV=False.
+3457	Guest 468 arrived. ECV=False.
+3465	Guest 469 arrived. ECV=False.
+3471	Guest 470 arrived. ECV=False.
+3476	Guest 471 arrived. ECV=False.
+3486	Guest 472 arrived. ECV=False.
+3491	Guest 473 arrived. ECV=False.
+3499	Guest 474 arrived. ECV=False.
+3506	Guest 475 arrived. ECV=False.
+3516	Guest 476 arrived. ECV=False.
+3526	Guest 477 arrived. ECV=False.
+3536	Guest 478 arrived. ECV=False.
+3542	Guest 479 arrived. ECV=False.
+3548	Guest 480 arrived. ECV=False.
+3558	Guest 481 arrived. ECV=False.
+3565	Guest 482 arrived. ECV=False.
+3573	Guest 483 arrived. ECV=True.
+3578	Guest 484 arrived. ECV=False.
+3587	Guest 485 arrived. ECV=False.
+3594	Guest 486 arrived. ECV=False.
+3602	Guest 487 arrived. ECV=False.
+3610	Guest 488 arrived. ECV=False.
+3617	Guest 489 arrived. ECV=False.
+3622	Guest 490 arrived. ECV=False.
+3632	Guest 491 arrived. ECV=False.
+3640	Guest 492 arrived. ECV=False.
+3646	Guest 493 arrived. ECV=False.
+3651	Guest 494 arrived. ECV=False.
+3657	Guest 495 arrived. ECV=False.
+3663	Guest 496 arrived. ECV=False.
+3672	Guest 497 arrived. ECV=False.
+3681	Guest 498 arrived. ECV=False.
+3689	Guest 499 arrived. ECV=False.
+3694	Guest 500 arrived. ECV=False.
+3704	Guest 501 arrived. ECV=False.
+3713	Guest 502 arrived. ECV=False.
+3719	Guest 503 arrived. ECV=False.
+3725	Guest 504 arrived. ECV=False.
+3730	Guest 505 arrived. ECV=False.
+3737	Guest 506 arrived. ECV=False.
+3742	Guest 507 arrived. ECV=True.
+3752	Guest 508 arrived. ECV=False.
+3757	Guest 509 arrived. ECV=False.
+3766	Guest 510 arrived. ECV=False.
+3771	Guest 511 arrived. ECV=False.
+3778	Guest 512 arrived. ECV=False.
+3780	Bus 9 with 40 seats arrived.
+3780	Loading bus 9
+3780	Guest354 is loading onto bus 9.
+3781	Guest355 is loading onto bus 9.
+3782	Guest356 is loading onto bus 9.
+3783	Guest357 is loading onto bus 9.
+3784	Guest358 is loading onto bus 9.
+3785	Guest359 is loading onto bus 9.
+3786	Guest360 is loading onto bus 9.
+3787	Guest361 is loading onto bus 9.
+3788	Guest 513 arrived. ECV=False.
+3788	Guest362 is loading onto bus 9.
+3789	Guest363 is loading onto bus 9.
+3790	Guest364 is loading onto bus 9.
+3791	Guest365 is loading onto bus 9.
+3792	Guest366 is loading onto bus 9.
+3793	Guest367 is loading onto bus 9.
+3794	Guest368 is loading onto bus 9.
+3795	Guest369 is loading onto bus 9.
+3796	Guest370 is loading onto bus 9.
+3797	Guest371 is loading onto bus 9.
+3798	Guest 514 arrived. ECV=False.
+3798	Guest372 is loading onto bus 9.
+3799	Guest373 is loading onto bus 9.
+3800	Guest374 is loading onto bus 9.
+3801	Guest375 is loading onto bus 9.
+3802	Guest376 is loading onto bus 9.
+3803	Guest377 is loading onto bus 9.
+3804	Guest378 is loading onto bus 9.
+3805	Guest379 is loading onto bus 9.
+3806	Guest380 is loading onto bus 9.
+3807	Guest381 is loading onto bus 9.
+3808	Guest 515 arrived. ECV=False.
+3808	Guest382 is loading onto bus 9.
+3809	Guest383 is loading onto bus 9.
+3810	Guest384 is loading onto bus 9.
+3811	Guest385 is loading onto bus 9.
+3812	Guest386 is loading onto bus 9.
+3813	Guest387 is loading onto bus 9.
+3814	Guest388 is loading onto bus 9.
+3815	Guest389 is loading onto bus 9.
+3816	Guest390 is loading onto bus 9.
+3817	Guest391 is loading onto bus 9.
+3818	Guest 516 arrived. ECV=False.
+3818	Guest392 is loading onto bus 9.
+3819	Guest393 is loading onto bus 9.
+3820	 bus 9 is departing the loading zone with guests 354 to 393.
+3824	Guest 517 arrived. ECV=False.
+3833	Guest 518 arrived. ECV=False.
+3843	Guest 519 arrived. ECV=False.
+3851	Guest 520 arrived. ECV=False.
+3860	Guest 521 arrived. ECV=False.
+3869	Guest 522 arrived. ECV=False.
+3877	Guest 523 arrived. ECV=False.
+3883	Guest 524 arrived. ECV=False.
+3888	Guest 525 arrived. ECV=False.
+3895	Guest 526 arrived. ECV=False.
+3901	Guest 527 arrived. ECV=False.
+3910	Guest 528 arrived. ECV=False.
+3920	Guest 529 arrived. ECV=False.
+3925	Guest 530 arrived. ECV=True.
+3934	Guest 531 arrived. ECV=False.
+3942	Guest 532 arrived. ECV=False.
+3948	Guest 533 arrived. ECV=False.
+3958	Guest 534 arrived. ECV=False.
+3963	Guest 535 arrived. ECV=False.
+3970	Guest 536 arrived. ECV=False.
+3978	Guest 537 arrived. ECV=True.
+3984	Guest 538 arrived. ECV=False.
+3993	Guest 539 arrived. ECV=False.
+4001	Guest 540 arrived. ECV=False.
+4006	Guest 541 arrived. ECV=False.
+4016	Guest 542 arrived. ECV=False.
+4026	Guest 543 arrived. ECV=False.
+4033	Guest 544 arrived. ECV=False.
+4041	Guest 545 arrived. ECV=False.
+4047	Guest 546 arrived. ECV=False.
+4054	Guest 547 arrived. ECV=False.
+4064	Guest 548 arrived. ECV=False.
+4070	Guest 549 arrived. ECV=False.
+4075	Guest 550 arrived. ECV=False.
+4085	Guest 551 arrived. ECV=False.
+4094	Guest 552 arrived. ECV=False.
+4101	Guest 553 arrived. ECV=False.
+4107	Guest 554 arrived. ECV=False.
+4115	Guest 555 arrived. ECV=False.
+4120	Guest 556 arrived. ECV=False.
+4126	Guest 557 arrived. ECV=False.
+4132	Guest 558 arrived. ECV=False.
+4137	Guest 559 arrived. ECV=False.
+4147	Guest 560 arrived. ECV=False.
+4153	Guest 561 arrived. ECV=False.
+4160	Guest 562 arrived. ECV=False.
+4167	Guest 563 arrived. ECV=False.
+4177	Guest 564 arrived. ECV=False.
+4185	Guest 565 arrived. ECV=False.
+4194	Guest 566 arrived. ECV=False.
+4199	Guest 567 arrived. ECV=False.
+4200	Bus 10 with 50 seats arrived.
+4200	Loading bus 10
+4200	Guest394 is loading onto bus 10.
+4201	Guest395 is loading onto bus 10.
+4202	Guest396 is loading onto bus 10.
+4203	Guest397 is loading onto bus 10.
+4204	Guest 568 arrived. ECV=False.
+4204	Guest398 is loading onto bus 10.
+4205	Guest399 is loading onto bus 10.
+4206	Guest400 is loading onto bus 10.
+4207	Guest401 is loading onto bus 10.
+4208	Guest402 is loading onto bus 10.
+4209	Guest 569 arrived. ECV=False.
+4209	Guest403 is loading onto bus 10.
+4210	Guest404 is loading onto bus 10.
+4211	Guest405 is loading onto bus 10.
+4212	Guest406 is loading onto bus 10.
+4213	Guest407 is loading onto bus 10.
+4214	Guest 570 arrived. ECV=False.
+4214	Guest408 is loading onto bus 10.
+4215	Guest409 is loading onto bus 10.
+4216	Guest410 is loading onto bus 10.
+4217	Guest411 is loading onto bus 10.
+4218	Guest412 is loading onto bus 10.
+4219	Guest413 is loading onto bus 10.
+4220	Guest414 is loading onto bus 10.
+4221	Guest415 is loading onto bus 10.
+4222	Guest 571 arrived. ECV=False.
+4222	Guest416 is loading onto bus 10.
+4223	Guest417 is loading onto bus 10.
+4224	Guest418 is loading onto bus 10.
+4225	Guest419 is loading onto bus 10.
+4226	Guest420 is loading onto bus 10.
+4227	Guest 572 arrived. ECV=False.
+4227	Guest421 is loading onto bus 10.
+4228	Guest422 is loading onto bus 10.
+4229	Guest423 is loading onto bus 10.
+4230	Guest424 is loading onto bus 10.
+4231	Guest425 is loading onto bus 10.
+4232	Guest426 is loading onto bus 10.
+4233	Guest427 is loading onto bus 10.
+4234	Guest428 is loading onto bus 10.
+4235	Guest429 is loading onto bus 10.
+4236	Guest 573 arrived. ECV=False.
+4236	Guest430 is loading onto bus 10.
+4237	Guest431 is loading onto bus 10.
+4238	Guest432 is loading onto bus 10.
+4239	Guest433 is loading onto bus 10.
+4240	Guest434 is loading onto bus 10.
+4241	Guest435 is loading onto bus 10.
+4242	Guest 574 arrived. ECV=False.
+4242	Guest436 is loading onto bus 10.
+4243	Guest437 is loading onto bus 10.
+4244	Guest438 is loading onto bus 10.
+4245	Guest439 is loading onto bus 10.
+4246	Guest440 is loading onto bus 10.
+4247	Guest 575 arrived. ECV=False.
+4247	Guest441 is loading onto bus 10.
+4248	Guest442 is loading onto bus 10.
+4249	Guest443 is loading onto bus 10.
+4250	 bus 10 is departing the loading zone with guests 394 to 443.
+4257	Guest 576 arrived. ECV=False.
+4264	Guest 577 arrived. ECV=False.
+4271	Guest 578 arrived. ECV=False.
+4281	Guest 579 arrived. ECV=False.
+4289	Guest 580 arrived. ECV=False.
+4294	Guest 581 arrived. ECV=False.
+4302	Guest 582 arrived. ECV=False.
+4312	Guest 583 arrived. ECV=False.
+4317	Guest 584 arrived. ECV=False.
+4326	Guest 585 arrived. ECV=False.
+4331	Guest 586 arrived. ECV=False.
+4340	Guest 587 arrived. ECV=False.
+4349	Guest 588 arrived. ECV=False.
+4356	Guest 589 arrived. ECV=False.
+4363	Guest 590 arrived. ECV=False.
+4372	Guest 591 arrived. ECV=False.
+4379	Guest 592 arrived. ECV=False.
+4389	Guest 593 arrived. ECV=False.
+4399	Guest 594 arrived. ECV=False.
+4406	Guest 595 arrived. ECV=False.
+4415	Guest 596 arrived. ECV=False.
+4423	Guest 597 arrived. ECV=False.
+4431	Guest 598 arrived. ECV=False.
+4441	Guest 599 arrived. ECV=True.
+4447	Guest 600 arrived. ECV=False.
+4456	Guest 601 arrived. ECV=False.
+4461	Guest 602 arrived. ECV=False.
+4469	Guest 603 arrived. ECV=False.
+4477	Guest 604 arrived. ECV=False.
+4487	Guest 605 arrived. ECV=False.
+4495	Guest 606 arrived. ECV=False.
+4504	Guest 607 arrived. ECV=False.
+4514	Guest 608 arrived. ECV=False.
+4519	Guest 609 arrived. ECV=False.
+4529	Guest 610 arrived. ECV=False.
+4534	Guest 611 arrived. ECV=False.
+4544	Guest 612 arrived. ECV=False.
+4550	Guest 613 arrived. ECV=True.
+4555	Guest 614 arrived. ECV=False.
+4561	Guest 615 arrived. ECV=False.
+4571	Guest 616 arrived. ECV=False.
+4581	Guest 617 arrived. ECV=False.
+4589	Guest 618 arrived. ECV=False.
+4594	Guest 619 arrived. ECV=False.
+4604	Guest 620 arrived. ECV=False.
+4612	Guest 621 arrived. ECV=False.
+4619	Guest 622 arrived. ECV=False.
+4620	Bus 11 with 50 seats arrived.
+4620	Loading bus 11
+4620	Guest444 is loading onto bus 11.
+4621	Guest445 is loading onto bus 11.
+4622	Guest446 is loading onto bus 11.
+4623	Guest447 is loading onto bus 11.
+4624	Guest 623 arrived. ECV=False.
+4624	Guest448 is loading onto bus 11.
+4625	Guest449 is loading onto bus 11.
+4626	Guest450 is loading onto bus 11.
+4627	Guest451 is loading onto bus 11.
+4628	Guest452 is loading onto bus 11.
+4629	Guest453 is loading onto bus 11.
+4630	Guest454 is loading onto bus 11.
+4631	Guest 624 arrived. ECV=False.
+4631	Guest455 is loading onto bus 11.
+4632	Guest456 is loading onto bus 11.
+4633	Guest457 is loading onto bus 11.
+4634	Guest458 is loading onto bus 11.
+4635	Guest459 is loading onto bus 11.
+4636	Guest460 is loading onto bus 11.
+4637	Guest 625 arrived. ECV=False.
+4637	Guest461 is loading onto bus 11.
+4638	Guest462 is loading onto bus 11.
+4639	Guest463 is loading onto bus 11.
+4640	Guest464 is loading onto bus 11.
+4641	Guest465 is loading onto bus 11.
+4642	Guest 626 arrived. ECV=False.
+4642	Guest466 is loading onto bus 11.
+4643	Guest467 is loading onto bus 11.
+4644	Guest468 is loading onto bus 11.
+4645	Guest469 is loading onto bus 11.
+4646	Guest470 is loading onto bus 11.
+4647	Guest471 is loading onto bus 11.
+4648	Guest472 is loading onto bus 11.
+4649	Guest 627 arrived. ECV=False.
+4649	Guest473 is loading onto bus 11.
+4650	Guest474 is loading onto bus 11.
+4651	Guest475 is loading onto bus 11.
+4652	Guest476 is loading onto bus 11.
+4653	Guest477 is loading onto bus 11.
+4654	Guest478 is loading onto bus 11.
+4655	Guest479 is loading onto bus 11.
+4656	Guest480 is loading onto bus 11.
+4657	Guest481 is loading onto bus 11.
+4658	Guest 628 arrived. ECV=False.
+4658	Guest482 is loading onto bus 11.
+4659	Guest483 is loading onto bus 11.
+4668	Guest 629 arrived. ECV=False.
+4674	Guest 630 arrived. ECV=False.
+4682	Guest 631 arrived. ECV=False.
+4692	Guest 632 arrived. ECV=False.
+4699	Guest 633 arrived. ECV=False.
+4705	Guest 634 arrived. ECV=False.
+4710	Guest 635 arrived. ECV=False.
+4720	Guest 636 arrived. ECV=False.
+4729	Guest 637 arrived. ECV=False.
+4738	Guest 638 arrived. ECV=False.
+4744	Guest 639 arrived. ECV=False.
+4751	Guest 640 arrived. ECV=False.
+4757	Guest 641 arrived. ECV=False.
+4762	Guest 642 arrived. ECV=False.
+4771	Guest 643 arrived. ECV=False.
+4776	Guest 644 arrived. ECV=False.
+4779	Guest484 is loading onto bus 11.
+4780	Guest485 is loading onto bus 11.
+4781	Guest486 is loading onto bus 11.
+4782	Guest 645 arrived. ECV=False.
+4782	Guest487 is loading onto bus 11.
+4783	Guest488 is loading onto bus 11.
+4784	Guest489 is loading onto bus 11.
+4785	Guest490 is loading onto bus 11.
+4786	Guest491 is loading onto bus 11.
+4787	 bus 11 is departing the loading zone with guests 444 to 491.
+4788	Guest 646 arrived. ECV=False.
+4797	Guest 647 arrived. ECV=False.
+4806	Guest 648 arrived. ECV=False.
+4814	Guest 649 arrived. ECV=False.
+4822	Guest 650 arrived. ECV=False.
+4832	Guest 651 arrived. ECV=False.
+4838	Guest 652 arrived. ECV=False.
+4843	Guest 653 arrived. ECV=False.
+4849	Guest 654 arrived. ECV=False.
+4854	Guest 655 arrived. ECV=False.
+4863	Guest 656 arrived. ECV=False.
+4871	Guest 657 arrived. ECV=False.
+4881	Guest 658 arrived. ECV=False.
+4889	Guest 659 arrived. ECV=False.
+4894	Guest 660 arrived. ECV=False.
+4899	Guest 661 arrived. ECV=False.
+4904	Guest 662 arrived. ECV=False.
+4914	Guest 663 arrived. ECV=False.
+4922	Guest 664 arrived. ECV=False.
+4932	Guest 665 arrived. ECV=False.
+4941	Guest 666 arrived. ECV=False.
+4948	Guest 667 arrived. ECV=False.
+4955	Guest 668 arrived. ECV=False.
+4964	Guest 669 arrived. ECV=False.
+4970	Guest 670 arrived. ECV=False.
+4977	Guest 671 arrived. ECV=False.
+4985	Guest 672 arrived. ECV=False.
+4995	Guest 673 arrived. ECV=False.
+5004	Guest 674 arrived. ECV=False.
+5012	Guest 675 arrived. ECV=False.
+5019	Guest 676 arrived. ECV=False.
+5024	Guest 677 arrived. ECV=False.
+5032	Guest 678 arrived. ECV=False.
+5038	Guest 679 arrived. ECV=False.
+5040	Bus 12 with 40 seats arrived.
+5040	Loading bus 12
+5040	Guest492 is loading onto bus 12.
+5041	Guest493 is loading onto bus 12.
+5042	Guest494 is loading onto bus 12.
+5043	Guest495 is loading onto bus 12.
+5044	Guest496 is loading onto bus 12.
+5045	Guest 680 arrived. ECV=False.
+5045	Guest497 is loading onto bus 12.
+5046	Guest498 is loading onto bus 12.
+5047	Guest499 is loading onto bus 12.
+5048	Guest500 is loading onto bus 12.
+5049	Guest501 is loading onto bus 12.
+5050	Guest502 is loading onto bus 12.
+5051	Guest503 is loading onto bus 12.
+5052	Guest 681 arrived. ECV=False.
+5052	Guest504 is loading onto bus 12.
+5053	Guest505 is loading onto bus 12.
+5054	Guest506 is loading onto bus 12.
+5055	Guest507 is loading onto bus 12.
+5059	Guest 682 arrived. ECV=False.
+5065	Guest 683 arrived. ECV=False.
+5071	Guest 684 arrived. ECV=False.
+5077	Guest 685 arrived. ECV=False.
+5087	Guest 686 arrived. ECV=False.
+5097	Guest 687 arrived. ECV=False.
+5106	Guest 688 arrived. ECV=False.
+5116	Guest 689 arrived. ECV=False.
+5123	Guest 690 arrived. ECV=False.
+5131	Guest 691 arrived. ECV=False.
+5139	Guest 692 arrived. ECV=False.
+5147	Guest 693 arrived. ECV=False.
+5152	Guest 694 arrived. ECV=False.
+5161	Guest 695 arrived. ECV=False.
+5170	Guest 696 arrived. ECV=False.
+5175	Guest508 is loading onto bus 12.
+5176	Guest 697 arrived. ECV=False.
+5176	Guest509 is loading onto bus 12.
+5177	Guest510 is loading onto bus 12.
+5178	Guest511 is loading onto bus 12.
+5179	Guest512 is loading onto bus 12.
+5180	Guest513 is loading onto bus 12.
+5181	Guest514 is loading onto bus 12.
+5182	Guest515 is loading onto bus 12.
+5183	Guest516 is loading onto bus 12.
+5184	Guest 698 arrived. ECV=False.
+5184	Guest517 is loading onto bus 12.
+5185	Guest518 is loading onto bus 12.
+5186	Guest519 is loading onto bus 12.
+5187	Guest520 is loading onto bus 12.
+5188	Guest521 is loading onto bus 12.
+5189	Guest522 is loading onto bus 12.
+5190	Guest523 is loading onto bus 12.
+5191	Guest524 is loading onto bus 12.
+5192	Guest525 is loading onto bus 12.
+5193	Guest 699 arrived. ECV=False.
+5193	Guest526 is loading onto bus 12.
+5194	Guest527 is loading onto bus 12.
+5195	Guest528 is loading onto bus 12.
+5196	Guest529 is loading onto bus 12.
+5197	 bus 12 is departing the loading zone with guests 492 to 529.
+5199	Guest 700 arrived. ECV=True.
+5209	Guest 701 arrived. ECV=False.
+5218	Guest 702 arrived. ECV=False.
+5226	Guest 703 arrived. ECV=False.
+5233	Guest 704 arrived. ECV=False.
+5240	Guest 705 arrived. ECV=False.
+5248	Guest 706 arrived. ECV=False.
+5255	Guest 707 arrived. ECV=False.
+5264	Guest 708 arrived. ECV=False.
+5271	Guest 709 arrived. ECV=True.
+5276	Guest 710 arrived. ECV=False.
+5285	Guest 711 arrived. ECV=False.
+5293	Guest 712 arrived. ECV=False.
+5301	Guest 713 arrived. ECV=False.
+5308	Guest 714 arrived. ECV=False.
+5313	Guest 715 arrived. ECV=False.
+5318	Guest 716 arrived. ECV=False.
+5325	Guest 717 arrived. ECV=False.
+5330	Guest 718 arrived. ECV=False.
+5340	Guest 719 arrived. ECV=False.
+5347	Guest 720 arrived. ECV=False.
+5353	Guest 721 arrived. ECV=False.
+5359	Guest 722 arrived. ECV=False.
+5366	Guest 723 arrived. ECV=False.
+5371	Guest 724 arrived. ECV=False.
+5377	Guest 725 arrived. ECV=False.
+5382	Guest 726 arrived. ECV=False.
+5392	Guest 727 arrived. ECV=False.
+5402	Guest 728 arrived. ECV=False.
+5411	Guest 729 arrived. ECV=False.
+5416	Guest 730 arrived. ECV=False.
+5426	Guest 731 arrived. ECV=False.
+5432	Guest 732 arrived. ECV=False.
+5438	Guest 733 arrived. ECV=False.
+5443	Guest 734 arrived. ECV=False.
+5451	Guest 735 arrived. ECV=False.
+5460	Bus 13 with 50 seats arrived.
+5460	Loading bus 13
+5460	Guest530 is loading onto bus 13.
+5461	Guest 736 arrived. ECV=False.
+5467	Guest 737 arrived. ECV=True.
+5475	Guest 738 arrived. ECV=False.
+5484	Guest 739 arrived. ECV=False.
+5489	Guest 740 arrived. ECV=False.
+5499	Guest 741 arrived. ECV=False.
+5509	Guest 742 arrived. ECV=False.
+5519	Guest 743 arrived. ECV=False.
+5526	Guest 744 arrived. ECV=False.
+5531	Guest 745 arrived. ECV=False.
+5540	Guest 746 arrived. ECV=False.
+5546	Guest 747 arrived. ECV=False.
+5553	Guest 748 arrived. ECV=False.
+5563	Guest 749 arrived. ECV=False.
+5569	Guest 750 arrived. ECV=False.
+5579	Guest 751 arrived. ECV=False.
+5580	Guest531 is loading onto bus 13.
+5581	Guest532 is loading onto bus 13.
+5582	Guest533 is loading onto bus 13.
+5583	Guest534 is loading onto bus 13.
+5584	Guest535 is loading onto bus 13.
+5585	Guest536 is loading onto bus 13.
+5586	Guest537 is loading onto bus 13.
+5589	Guest 752 arrived. ECV=False.
+5598	Guest 753 arrived. ECV=False.
+5605	Guest 754 arrived. ECV=False.
+5614	Guest 755 arrived. ECV=False.
+5622	Guest 756 arrived. ECV=False.
+5630	Guest 757 arrived. ECV=False.
+5637	Guest 758 arrived. ECV=False.
+5646	Guest 759 arrived. ECV=False.
+5653	Guest 760 arrived. ECV=False.
+5659	Guest 761 arrived. ECV=False.
+5665	Guest 762 arrived. ECV=False.
+5671	Guest 763 arrived. ECV=False.
+5677	Guest 764 arrived. ECV=False.
+5686	Guest 765 arrived. ECV=False.
+5691	Guest 766 arrived. ECV=False.
+5696	Guest 767 arrived. ECV=False.
+5706	Guest 768 arrived. ECV=False.
+5706	Guest538 is loading onto bus 13.
+5707	Guest539 is loading onto bus 13.
+5708	Guest540 is loading onto bus 13.
+5709	Guest541 is loading onto bus 13.
+5710	Guest542 is loading onto bus 13.
+5711	Guest543 is loading onto bus 13.
+5712	Guest544 is loading onto bus 13.
+5713	Guest545 is loading onto bus 13.
+5714	Guest546 is loading onto bus 13.
+5715	Guest547 is loading onto bus 13.
+5716	Guest 769 arrived. ECV=False.
+5716	Guest548 is loading onto bus 13.
+5717	Guest549 is loading onto bus 13.
+5718	Guest550 is loading onto bus 13.
+5719	Guest551 is loading onto bus 13.
+5720	Guest552 is loading onto bus 13.
+5721	Guest553 is loading onto bus 13.
+5722	Guest554 is loading onto bus 13.
+5723	Guest555 is loading onto bus 13.
+5724	Guest556 is loading onto bus 13.
+5725	Guest 770 arrived. ECV=False.
+5725	Guest557 is loading onto bus 13.
+5726	Guest558 is loading onto bus 13.
+5727	Guest559 is loading onto bus 13.
+5728	Guest560 is loading onto bus 13.
+5729	Guest561 is loading onto bus 13.
+5730	Guest562 is loading onto bus 13.
+5731	Guest563 is loading onto bus 13.
+5732	Guest564 is loading onto bus 13.
+5733	Guest 771 arrived. ECV=False.
+5733	Guest565 is loading onto bus 13.
+5734	Guest566 is loading onto bus 13.
+5735	Guest567 is loading onto bus 13.
+5736	Guest568 is loading onto bus 13.
+5737	Guest569 is loading onto bus 13.
+5738	Guest570 is loading onto bus 13.
+5739	Guest 772 arrived. ECV=False.
+5739	Guest571 is loading onto bus 13.
+5740	Guest572 is loading onto bus 13.
+5741	Guest573 is loading onto bus 13.
+5742	Guest574 is loading onto bus 13.
+5743	Guest575 is loading onto bus 13.
+5744	 bus 13 is departing the loading zone with guests 530 to 575.
+5745	Guest 773 arrived. ECV=False.
+5755	Guest 774 arrived. ECV=False.
+5763	Guest 775 arrived. ECV=False.
+5771	Guest 776 arrived. ECV=False.
+5776	Guest 777 arrived. ECV=False.
+5781	Guest 778 arrived. ECV=False.
+5790	Guest 779 arrived. ECV=False.
+5798	Guest 780 arrived. ECV=False.
+5806	Guest 781 arrived. ECV=False.
+5816	Guest 782 arrived. ECV=False.
+5823	Guest 783 arrived. ECV=False.
+5833	Guest 784 arrived. ECV=False.
+5841	Guest 785 arrived. ECV=False.
+5851	Guest 786 arrived. ECV=False.
+5861	Guest 787 arrived. ECV=False.
+5866	Guest 788 arrived. ECV=False.
+5875	Guest 789 arrived. ECV=False.
+5880	Bus 14 with 50 seats arrived.
+5880	Loading bus 14
+5880	Guest576 is loading onto bus 14.
+5881	Guest577 is loading onto bus 14.
+5882	Guest578 is loading onto bus 14.
+5883	Guest579 is loading onto bus 14.
+5884	Guest580 is loading onto bus 14.
+5885	Guest 790 arrived. ECV=False.
+5885	Guest581 is loading onto bus 14.
+5886	Guest582 is loading onto bus 14.
+5887	Guest583 is loading onto bus 14.
+5888	Guest584 is loading onto bus 14.
+5889	Guest585 is loading onto bus 14.
+5890	Guest586 is loading onto bus 14.
+5891	Guest587 is loading onto bus 14.
+5892	Guest 791 arrived. ECV=False.
+5892	Guest588 is loading onto bus 14.
+5893	Guest589 is loading onto bus 14.
+5894	Guest590 is loading onto bus 14.
+5895	Guest591 is loading onto bus 14.
+5896	Guest592 is loading onto bus 14.
+5897	Guest593 is loading onto bus 14.
+5898	Guest594 is loading onto bus 14.
+5899	Guest 792 arrived. ECV=False.
+5899	Guest595 is loading onto bus 14.
+5900	Guest596 is loading onto bus 14.
+5901	Guest597 is loading onto bus 14.
+5902	Guest598 is loading onto bus 14.
+5903	Guest599 is loading onto bus 14.
+5905	Guest 793 arrived. ECV=False.
+5912	Guest 794 arrived. ECV=False.
+5918	Guest 795 arrived. ECV=False.
+5926	Guest 796 arrived. ECV=False.
+5936	Guest 797 arrived. ECV=False.
+5943	Guest 798 arrived. ECV=False.
+5953	Guest 799 arrived. ECV=False.
+5963	Guest 800 arrived. ECV=False.
+5972	Guest 801 arrived. ECV=False.
+5977	Guest 802 arrived. ECV=False.
+5987	Guest 803 arrived. ECV=False.
+5993	Guest 804 arrived. ECV=False.
+5999	Guest 805 arrived. ECV=False.
+6009	Guest 806 arrived. ECV=False.
+6019	Guest 807 arrived. ECV=False.
+6023	Guest600 is loading onto bus 14.
+6024	Guest601 is loading onto bus 14.
+6025	Guest602 is loading onto bus 14.
+6026	Guest603 is loading onto bus 14.
+6027	Guest 808 arrived. ECV=False.
+6027	Guest604 is loading onto bus 14.
+6028	Guest605 is loading onto bus 14.
+6029	Guest606 is loading onto bus 14.
+6030	Guest607 is loading onto bus 14.
+6031	Guest608 is loading onto bus 14.
+6032	Guest609 is loading onto bus 14.
+6033	Guest 809 arrived. ECV=False.
+6033	Guest610 is loading onto bus 14.
+6034	Guest611 is loading onto bus 14.
+6035	Guest612 is loading onto bus 14.
+6036	Guest613 is loading onto bus 14.
+6038	Guest 810 arrived. ECV=False.
+6045	Guest 811 arrived. ECV=False.
+6053	Guest 812 arrived. ECV=False.
+6062	Guest 813 arrived. ECV=False.
+6072	Guest 814 arrived. ECV=False.
+6077	Guest 815 arrived. ECV=False.
+6086	Guest 816 arrived. ECV=False.
+6091	Guest 817 arrived. ECV=False.
+6099	Guest 818 arrived. ECV=False.
+6108	Guest 819 arrived. ECV=False.
+6115	Guest 820 arrived. ECV=False.
+6121	Guest 821 arrived. ECV=False.
+6128	Guest 822 arrived. ECV=False.
+6133	Guest 823 arrived. ECV=False.
+6143	Guest 824 arrived. ECV=False.
+6149	Guest 825 arrived. ECV=True.
+6156	Guest 826 arrived. ECV=False.
+6156	Guest614 is loading onto bus 14.
+6157	Guest615 is loading onto bus 14.
+6158	Guest616 is loading onto bus 14.
+6159	Guest617 is loading onto bus 14.
+6160	Guest618 is loading onto bus 14.
+6161	Guest619 is loading onto bus 14.
+6162	Guest 827 arrived. ECV=False.
+6162	Guest620 is loading onto bus 14.
+6163	Guest621 is loading onto bus 14.
+6164	 bus 14 is departing the loading zone with guests 576 to 621.
+6171	Guest 828 arrived. ECV=False.
+6181	Guest 829 arrived. ECV=False.
+6191	Guest 830 arrived. ECV=False.
+6199	Guest 831 arrived. ECV=False.
+6206	Guest 832 arrived. ECV=False.
+6213	Guest 833 arrived. ECV=False.
+6220	Guest 834 arrived. ECV=False.
+6225	Guest 835 arrived. ECV=False.
+6233	Guest 836 arrived. ECV=False.
+6241	Guest 837 arrived. ECV=False.
+6251	Guest 838 arrived. ECV=False.
+6258	Guest 839 arrived. ECV=False.
+6268	Guest 840 arrived. ECV=False.
+6274	Guest 841 arrived. ECV=False.
+6282	Guest 842 arrived. ECV=False.
+6288	Guest 843 arrived. ECV=False.
+6295	Guest 844 arrived. ECV=False.
+6300	Bus 15 with 50 seats arrived.
+6300	Loading bus 15
+6300	Guest622 is loading onto bus 15.
+6301	Guest623 is loading onto bus 15.
+6302	Guest 845 arrived. ECV=False.
+6302	Guest624 is loading onto bus 15.
+6303	Guest625 is loading onto bus 15.
+6304	Guest626 is loading onto bus 15.
+6305	Guest627 is loading onto bus 15.
+6306	Guest628 is loading onto bus 15.
+6307	Guest629 is loading onto bus 15.
+6308	Guest630 is loading onto bus 15.
+6309	Guest631 is loading onto bus 15.
+6310	Guest 846 arrived. ECV=False.
+6310	Guest632 is loading onto bus 15.
+6311	Guest633 is loading onto bus 15.
+6312	Guest634 is loading onto bus 15.
+6313	Guest635 is loading onto bus 15.
+6314	Guest636 is loading onto bus 15.
+6315	Guest637 is loading onto bus 15.
+6316	Guest638 is loading onto bus 15.
+6317	Guest 847 arrived. ECV=False.
+6317	Guest639 is loading onto bus 15.
+6318	Guest640 is loading onto bus 15.
+6319	Guest641 is loading onto bus 15.
+6320	Guest642 is loading onto bus 15.
+6321	Guest643 is loading onto bus 15.
+6322	Guest644 is loading onto bus 15.
+6323	Guest645 is loading onto bus 15.
+6324	Guest646 is loading onto bus 15.
+6325	Guest 848 arrived. ECV=False.
+6325	Guest647 is loading onto bus 15.
+6326	Guest648 is loading onto bus 15.
+6327	Guest649 is loading onto bus 15.
+6328	Guest650 is loading onto bus 15.
+6329	Guest651 is loading onto bus 15.
+6330	Guest 849 arrived. ECV=False.
+6330	Guest652 is loading onto bus 15.
+6331	Guest653 is loading onto bus 15.
+6332	Guest654 is loading onto bus 15.
+6333	Guest655 is loading onto bus 15.
+6334	Guest656 is loading onto bus 15.
+6335	Guest 850 arrived. ECV=False.
+6335	Guest657 is loading onto bus 15.
+6336	Guest658 is loading onto bus 15.
+6337	Guest659 is loading onto bus 15.
+6338	Guest660 is loading onto bus 15.
+6339	Guest661 is loading onto bus 15.
+6340	Guest 851 arrived. ECV=False.
+6340	Guest662 is loading onto bus 15.
+6341	Guest663 is loading onto bus 15.
+6342	Guest664 is loading onto bus 15.
+6343	Guest665 is loading onto bus 15.
+6344	Guest666 is loading onto bus 15.
+6345	Guest667 is loading onto bus 15.
+6346	Guest668 is loading onto bus 15.
+6347	Guest 852 arrived. ECV=False.
+6347	Guest669 is loading onto bus 15.
+6348	Guest670 is loading onto bus 15.
+6349	Guest671 is loading onto bus 15.
+6350	 bus 15 is departing the loading zone with guests 622 to 671.
+6356	Guest 853 arrived. ECV=False.
+6364	Guest 854 arrived. ECV=False.
+6369	Guest 855 arrived. ECV=False.
+6378	Guest 856 arrived. ECV=False.
+6387	Guest 857 arrived. ECV=False.
+6395	Guest 858 arrived. ECV=False.
+6401	Guest 859 arrived. ECV=False.
+6409	Guest 860 arrived. ECV=False.
+6418	Guest 861 arrived. ECV=False.
+6426	Guest 862 arrived. ECV=False.
+6434	Guest 863 arrived. ECV=False.
+6442	Guest 864 arrived. ECV=True.
+6452	Guest 865 arrived. ECV=False.
+6462	Guest 866 arrived. ECV=False.
+6469	Guest 867 arrived. ECV=False.
+6478	Guest 868 arrived. ECV=False.
+6483	Guest 869 arrived. ECV=False.
+6489	Guest 870 arrived. ECV=False.
+6496	Guest 871 arrived. ECV=False.
+6503	Guest 872 arrived. ECV=False.
+6509	Guest 873 arrived. ECV=False.
+6519	Guest 874 arrived. ECV=False.
+6527	Guest 875 arrived. ECV=False.
+6533	Guest 876 arrived. ECV=False.
+6543	Guest 877 arrived. ECV=False.
+6549	Guest 878 arrived. ECV=False.
+6555	Guest 879 arrived. ECV=False.
+6563	Guest 880 arrived. ECV=False.
+6571	Guest 881 arrived. ECV=False.
+6581	Guest 882 arrived. ECV=False.
+6587	Guest 883 arrived. ECV=False.
+6592	Guest 884 arrived. ECV=False.
+6601	Guest 885 arrived. ECV=False.
+6608	Guest 886 arrived. ECV=False.
+6618	Guest 887 arrived. ECV=False.
+6627	Guest 888 arrived. ECV=False.
+6633	Guest 889 arrived. ECV=False.
+6638	Guest 890 arrived. ECV=False.
+6644	Guest 891 arrived. ECV=False.
+6650	Guest 892 arrived. ECV=False.
+6659	Guest 893 arrived. ECV=False.
+6669	Guest 894 arrived. ECV=False.
+6677	Guest 895 arrived. ECV=False.
+6687	Guest 896 arrived. ECV=False.
+6693	Guest 897 arrived. ECV=False.
+6699	Guest 898 arrived. ECV=False.
+6706	Guest 899 arrived. ECV=False.
+6714	Guest 900 arrived. ECV=False.
+6720	Bus 16 with 50 seats arrived.
+6720	Loading bus 16
+6720	Guest672 is loading onto bus 16.
+6721	Guest 901 arrived. ECV=False.
+6721	Guest673 is loading onto bus 16.
+6722	Guest674 is loading onto bus 16.
+6723	Guest675 is loading onto bus 16.
+6724	Guest676 is loading onto bus 16.
+6725	Guest677 is loading onto bus 16.
+6726	Guest678 is loading onto bus 16.
+6727	Guest679 is loading onto bus 16.
+6728	Guest680 is loading onto bus 16.
+6729	Guest681 is loading onto bus 16.
+6730	Guest682 is loading onto bus 16.
+6731	Guest 902 arrived. ECV=False.
+6731	Guest683 is loading onto bus 16.
+6732	Guest684 is loading onto bus 16.
+6733	Guest685 is loading onto bus 16.
+6734	Guest686 is loading onto bus 16.
+6735	Guest687 is loading onto bus 16.
+6736	Guest688 is loading onto bus 16.
+6737	Guest689 is loading onto bus 16.
+6738	Guest 903 arrived. ECV=False.
+6738	Guest690 is loading onto bus 16.
+6739	Guest691 is loading onto bus 16.
+6740	Guest692 is loading onto bus 16.
+6741	Guest693 is loading onto bus 16.
+6742	Guest694 is loading onto bus 16.
+6743	Guest695 is loading onto bus 16.
+6744	Guest696 is loading onto bus 16.
+6745	Guest697 is loading onto bus 16.
+6746	Guest 904 arrived. ECV=False.
+6746	Guest698 is loading onto bus 16.
+6747	Guest699 is loading onto bus 16.
+6748	Guest700 is loading onto bus 16.
+6752	Guest 905 arrived. ECV=False.
+6759	Guest 906 arrived. ECV=False.
+6769	Guest 907 arrived. ECV=False.
+6778	Guest 908 arrived. ECV=False.
+6787	Guest 909 arrived. ECV=False.
+6795	Guest 910 arrived. ECV=False.
+6802	Guest 911 arrived. ECV=False.
+6807	Guest 912 arrived. ECV=False.
+6815	Guest 913 arrived. ECV=False.
+6824	Guest 914 arrived. ECV=False.
+6830	Guest 915 arrived. ECV=False.
+6840	Guest 916 arrived. ECV=False.
+6849	Guest 917 arrived. ECV=False.
+6859	Guest 918 arrived. ECV=False.
+6865	Guest 919 arrived. ECV=False.
+6868	Guest701 is loading onto bus 16.
+6869	Guest702 is loading onto bus 16.
+6870	Guest703 is loading onto bus 16.
+6871	Guest704 is loading onto bus 16.
+6872	Guest705 is loading onto bus 16.
+6873	Guest706 is loading onto bus 16.
+6874	Guest 920 arrived. ECV=False.
+6874	Guest707 is loading onto bus 16.
+6875	Guest708 is loading onto bus 16.
+6876	Guest709 is loading onto bus 16.
+6881	Guest 921 arrived. ECV=False.
+6886	Guest 922 arrived. ECV=False.
+6891	Guest 923 arrived. ECV=False.
+6897	Guest 924 arrived. ECV=False.
+6904	Guest 925 arrived. ECV=False.
+6913	Guest 926 arrived. ECV=False.
+6918	Guest 927 arrived. ECV=False.
+6928	Guest 928 arrived. ECV=False.
+6935	Guest 929 arrived. ECV=False.
+6943	Guest 930 arrived. ECV=False.
+6949	Guest 931 arrived. ECV=False.
+6956	Guest 932 arrived. ECV=False.
+6965	Guest 933 arrived. ECV=False.
+6970	Guest 934 arrived. ECV=False.
+6978	Guest 935 arrived. ECV=False.
+6985	Guest 936 arrived. ECV=False.
+6991	Guest 937 arrived. ECV=False.
+6996	Guest 938 arrived. ECV=False.
+6996	Guest710 is loading onto bus 16.
+6997	Guest711 is loading onto bus 16.
+6998	Guest712 is loading onto bus 16.
+6999	Guest713 is loading onto bus 16.
+7000	Guest714 is loading onto bus 16.
+7001	Guest 939 arrived. ECV=False.
+7001	Guest715 is loading onto bus 16.
+7002	Guest716 is loading onto bus 16.
+7003	Guest717 is loading onto bus 16.
+7004	 bus 16 is departing the loading zone with guests 672 to 717.
+7010	Guest 940 arrived. ECV=False.
+7020	Guest 941 arrived. ECV=False.
+7026	Guest 942 arrived. ECV=False.
+7034	Guest 943 arrived. ECV=False.
+7040	Guest 944 arrived. ECV=False.
+7049	Guest 945 arrived. ECV=False.
+7056	Guest 946 arrived. ECV=False.
+7065	Guest 947 arrived. ECV=False.
+7072	Guest 948 arrived. ECV=False.
+7078	Guest 949 arrived. ECV=False.
+7083	Guest 950 arrived. ECV=False.
+7088	Guest 951 arrived. ECV=False.
+7094	Guest 952 arrived. ECV=False.
+7102	Guest 953 arrived. ECV=False.
+7111	Guest 954 arrived. ECV=False.
+7120	Guest 955 arrived. ECV=False.
+7129	Guest 956 arrived. ECV=False.
+7138	Guest 957 arrived. ECV=False.
+7140	Bus 17 with 50 seats arrived.
+7140	Loading bus 17
+7140	Guest718 is loading onto bus 17.
+7141	Guest719 is loading onto bus 17.
+7142	Guest720 is loading onto bus 17.
+7143	Guest721 is loading onto bus 17.
+7144	Guest722 is loading onto bus 17.
+7145	Guest723 is loading onto bus 17.
+7146	Guest724 is loading onto bus 17.
+7147	Guest 958 arrived. ECV=False.
+7147	Guest725 is loading onto bus 17.
+7148	Guest726 is loading onto bus 17.
+7149	Guest727 is loading onto bus 17.
+7150	Guest728 is loading onto bus 17.
+7151	Guest729 is loading onto bus 17.
+7152	Guest730 is loading onto bus 17.
+7153	Guest 959 arrived. ECV=False.
+7153	Guest731 is loading onto bus 17.
+7154	Guest732 is loading onto bus 17.
+7155	Guest733 is loading onto bus 17.
+7156	Guest734 is loading onto bus 17.
+7157	Guest735 is loading onto bus 17.
+7158	Guest736 is loading onto bus 17.
+7159	Guest737 is loading onto bus 17.
+7163	Guest 960 arrived. ECV=False.
+7172	Guest 961 arrived. ECV=False.
+7177	Guest 962 arrived. ECV=False.
+7186	Guest 963 arrived. ECV=False.
+7195	Guest 964 arrived. ECV=False.
+7202	Guest 965 arrived. ECV=False.
+7209	Guest 966 arrived. ECV=False.
+7218	Guest 967 arrived. ECV=False.
+7225	Guest 968 arrived. ECV=False.
+7231	Guest 969 arrived. ECV=False.
+7240	Guest 970 arrived. ECV=False.
+7249	Guest 971 arrived. ECV=False.
+7256	Guest 972 arrived. ECV=False.
+7266	Guest 973 arrived. ECV=False.
+7271	Guest 974 arrived. ECV=False.
+7279	Guest 975 arrived. ECV=False.
+7279	Guest738 is loading onto bus 17.
+7280	Guest739 is loading onto bus 17.
+7281	Guest740 is loading onto bus 17.
+7282	Guest741 is loading onto bus 17.
+7283	Guest742 is loading onto bus 17.
+7284	Guest 976 arrived. ECV=False.
+7284	Guest743 is loading onto bus 17.
+7285	Guest744 is loading onto bus 17.
+7286	Guest745 is loading onto bus 17.
+7287	Guest746 is loading onto bus 17.
+7288	Guest747 is loading onto bus 17.
+7289	Guest748 is loading onto bus 17.
+7290	Guest749 is loading onto bus 17.
+7291	Guest750 is loading onto bus 17.
+7292	Guest751 is loading onto bus 17.
+7293	Guest752 is loading onto bus 17.
+7294	Guest 977 arrived. ECV=False.
+7294	Guest753 is loading onto bus 17.
+7295	Guest754 is loading onto bus 17.
+7296	Guest755 is loading onto bus 17.
+7297	Guest756 is loading onto bus 17.
+7298	Guest757 is loading onto bus 17.
+7299	Guest758 is loading onto bus 17.
+7300	Guest759 is loading onto bus 17.
+7301	Guest760 is loading onto bus 17.
+7302	Guest 978 arrived. ECV=False.
+7302	Guest761 is loading onto bus 17.
+7303	Guest762 is loading onto bus 17.
+7304	Guest763 is loading onto bus 17.
+7305	Guest764 is loading onto bus 17.
+7306	Guest765 is loading onto bus 17.
+7307	 bus 17 is departing the loading zone with guests 718 to 765.
+7308	Guest 979 arrived. ECV=False.
+7313	Guest 980 arrived. ECV=False.
+7322	Guest 981 arrived. ECV=False.
+7330	Guest 982 arrived. ECV=False.
+7339	Guest 983 arrived. ECV=False.
+7344	Guest 984 arrived. ECV=False.
+7353	Guest 985 arrived. ECV=False.
+7359	Guest 986 arrived. ECV=False.
+7366	Guest 987 arrived. ECV=False.
+7372	Guest 988 arrived. ECV=False.
+7379	Guest 989 arrived. ECV=False.
+7386	Guest 990 arrived. ECV=False.
+7394	Guest 991 arrived. ECV=False.
+7403	Guest 992 arrived. ECV=False.
+7410	Guest 993 arrived. ECV=False.
+7416	Guest 994 arrived. ECV=False.
+7423	Guest 995 arrived. ECV=False.
+7429	Guest 996 arrived. ECV=False.
+7439	Guest 997 arrived. ECV=False.
+7448	Guest 998 arrived. ECV=False.
+7454	Guest 999 arrived. ECV=False.
+7461	Guest 1000 arrived. ECV=False.
+7470	Guest 1001 arrived. ECV=False.
+7475	Guest 1002 arrived. ECV=False.
+7480	Guest 1003 arrived. ECV=False.
+7489	Guest 1004 arrived. ECV=False.
+7494	Guest 1005 arrived. ECV=False.
+7501	Guest 1006 arrived. ECV=False.
+7507	Guest 1007 arrived. ECV=False.
+7515	Guest 1008 arrived. ECV=False.
+7525	Guest 1009 arrived. ECV=False.
+7532	Guest 1010 arrived. ECV=False.
+7542	Guest 1011 arrived. ECV=False.
+7547	Guest 1012 arrived. ECV=False.
+7554	Guest 1013 arrived. ECV=False.
+7560	Bus 18 with 50 seats arrived.
+7560	Guest 1014 arrived. ECV=False.
+7560	Loading bus 18
+7560	Guest766 is loading onto bus 18.
+7561	Guest767 is loading onto bus 18.
+7562	Guest768 is loading onto bus 18.
+7563	Guest769 is loading onto bus 18.
+7564	Guest770 is loading onto bus 18.
+7565	Guest771 is loading onto bus 18.
+7566	Guest772 is loading onto bus 18.
+7567	Guest773 is loading onto bus 18.
+7568	Guest 1015 arrived. ECV=False.
+7568	Guest774 is loading onto bus 18.
+7569	Guest775 is loading onto bus 18.
+7570	Guest776 is loading onto bus 18.
+7571	Guest777 is loading onto bus 18.
+7572	Guest778 is loading onto bus 18.
+7573	Guest779 is loading onto bus 18.
+7574	Guest780 is loading onto bus 18.
+7575	Guest 1016 arrived. ECV=False.
+7575	Guest781 is loading onto bus 18.
+7576	Guest782 is loading onto bus 18.
+7577	Guest783 is loading onto bus 18.
+7578	Guest784 is loading onto bus 18.
+7579	Guest785 is loading onto bus 18.
+7580	Guest786 is loading onto bus 18.
+7581	Guest787 is loading onto bus 18.
+7582	Guest788 is loading onto bus 18.
+7583	Guest789 is loading onto bus 18.
+7584	Guest790 is loading onto bus 18.
+7585	Guest 1017 arrived. ECV=False.
+7585	Guest791 is loading onto bus 18.
+7586	Guest792 is loading onto bus 18.
+7587	Guest793 is loading onto bus 18.
+7588	Guest794 is loading onto bus 18.
+7589	Guest795 is loading onto bus 18.
+7590	Guest 1018 arrived. ECV=False.
+7590	Guest796 is loading onto bus 18.
+7591	Guest797 is loading onto bus 18.
+7592	Guest798 is loading onto bus 18.
+7593	Guest799 is loading onto bus 18.
+7594	Guest800 is loading onto bus 18.
+7595	Guest801 is loading onto bus 18.
+7596	Guest802 is loading onto bus 18.
+7597	Guest803 is loading onto bus 18.
+7598	Guest 1019 arrived. ECV=False.
+7598	Guest804 is loading onto bus 18.
+7599	Guest805 is loading onto bus 18.
+7600	Guest806 is loading onto bus 18.
+7601	Guest807 is loading onto bus 18.
+7602	Guest808 is loading onto bus 18.
+7603	Guest809 is loading onto bus 18.
+7604	Guest 1020 arrived. ECV=False.
+7604	Guest810 is loading onto bus 18.
+7605	Guest811 is loading onto bus 18.
+7606	Guest812 is loading onto bus 18.
+7607	Guest813 is loading onto bus 18.
+7608	Guest814 is loading onto bus 18.
+7609	Guest815 is loading onto bus 18.
+7610	Guest 1021 arrived. ECV=False.
+7610	 bus 18 is departing the loading zone with guests 766 to 815.
+7615	Guest 1022 arrived. ECV=False.
+7621	Guest 1023 arrived. ECV=False.
+7626	Guest 1024 arrived. ECV=False.
+7634	Guest 1025 arrived. ECV=False.
+7639	Guest 1026 arrived. ECV=False.
+7646	Guest 1027 arrived. ECV=False.
+7652	Guest 1028 arrived. ECV=False.
+7660	Guest 1029 arrived. ECV=False.
+7669	Guest 1030 arrived. ECV=False.
+7674	Guest 1031 arrived. ECV=False.
+7679	Guest 1032 arrived. ECV=False.
+7685	Guest 1033 arrived. ECV=False.
+7691	Guest 1034 arrived. ECV=False.
+7698	Guest 1035 arrived. ECV=False.
+7707	Guest 1036 arrived. ECV=False.
+7715	Guest 1037 arrived. ECV=False.
+7720	Guest 1038 arrived. ECV=False.
+7727	Guest 1039 arrived. ECV=False.
+7737	Guest 1040 arrived. ECV=False.
+7746	Guest 1041 arrived. ECV=True.
+7752	Guest 1042 arrived. ECV=False.
+7758	Guest 1043 arrived. ECV=False.
+7765	Guest 1044 arrived. ECV=False.
+7775	Guest 1045 arrived. ECV=False.
+7782	Guest 1046 arrived. ECV=False.
+7788	Guest 1047 arrived. ECV=False.
+7793	Guest 1048 arrived. ECV=False.
+7798	Guest 1049 arrived. ECV=False.
+7808	Guest 1050 arrived. ECV=False.
+7813	Guest 1051 arrived. ECV=False.
+7822	Guest 1052 arrived. ECV=False.
+7829	Guest 1053 arrived. ECV=False.
+7836	Guest 1054 arrived. ECV=False.
+7841	Guest 1055 arrived. ECV=False.
+7849	Guest 1056 arrived. ECV=False.
+7857	Guest 1057 arrived. ECV=False.
+7863	Guest 1058 arrived. ECV=False.
+7868	Guest 1059 arrived. ECV=False.
+7877	Guest 1060 arrived. ECV=False.
+7883	Guest 1061 arrived. ECV=False.
+7891	Guest 1062 arrived. ECV=False.
+7899	Guest 1063 arrived. ECV=False.
+7906	Guest 1064 arrived. ECV=False.
+7916	Guest 1065 arrived. ECV=False.
+7926	Guest 1066 arrived. ECV=False.
+7936	Guest 1067 arrived. ECV=False.
+7945	Guest 1068 arrived. ECV=False.
+7950	Guest 1069 arrived. ECV=False.
+7956	Guest 1070 arrived. ECV=False.
+7962	Guest 1071 arrived. ECV=False.
+7971	Guest 1072 arrived. ECV=False.
+7976	Guest 1073 arrived. ECV=False.
+7980	Bus 19 with 50 seats arrived.
+7980	Loading bus 19
+7980	Guest816 is loading onto bus 19.
+7981	Guest817 is loading onto bus 19.
+7982	Guest818 is loading onto bus 19.
+7983	Guest 1074 arrived. ECV=False.
+7983	Guest819 is loading onto bus 19.
+7984	Guest820 is loading onto bus 19.
+7985	Guest821 is loading onto bus 19.
+7986	Guest822 is loading onto bus 19.
+7987	Guest823 is loading onto bus 19.
+7988	Guest 1075 arrived. ECV=False.
+7988	Guest824 is loading onto bus 19.
+7989	Guest825 is loading onto bus 19.
+7995	Guest 1076 arrived. ECV=False.
+8002	Guest 1077 arrived. ECV=False.
+8010	Guest 1078 arrived. ECV=False.
+8019	Guest 1079 arrived. ECV=False.
+8028	Guest 1080 arrived. ECV=False.
+8033	Guest 1081 arrived. ECV=False.
+8039	Guest 1082 arrived. ECV=False.
+8047	Guest 1083 arrived. ECV=False.
+8054	Guest 1084 arrived. ECV=False.
+8064	Guest 1085 arrived. ECV=False.
+8073	Guest 1086 arrived. ECV=False.
+8082	Guest 1087 arrived. ECV=False.
+8090	Guest 1088 arrived. ECV=False.
+8098	Guest 1089 arrived. ECV=False.
+8108	Guest 1090 arrived. ECV=False.
+8109	Guest826 is loading onto bus 19.
+8110	Guest827 is loading onto bus 19.
+8111	Guest828 is loading onto bus 19.
+8112	Guest829 is loading onto bus 19.
+8113	Guest 1091 arrived. ECV=False.
+8113	Guest830 is loading onto bus 19.
+8114	Guest831 is loading onto bus 19.
+8115	Guest832 is loading onto bus 19.
+8116	Guest833 is loading onto bus 19.
+8117	Guest834 is loading onto bus 19.
+8118	Guest835 is loading onto bus 19.
+8119	Guest836 is loading onto bus 19.
+8120	Guest837 is loading onto bus 19.
+8121	Guest 1092 arrived. ECV=False.
+8121	Guest838 is loading onto bus 19.
+8122	Guest839 is loading onto bus 19.
+8123	Guest840 is loading onto bus 19.
+8124	Guest841 is loading onto bus 19.
+8125	Guest842 is loading onto bus 19.
+8126	Guest843 is loading onto bus 19.
+8127	Guest844 is loading onto bus 19.
+8128	Guest845 is loading onto bus 19.
+8129	Guest846 is loading onto bus 19.
+8130	Guest847 is loading onto bus 19.
+8131	Guest 1093 arrived. ECV=False.
+8131	Guest848 is loading onto bus 19.
+8132	Guest849 is loading onto bus 19.
+8133	Guest850 is loading onto bus 19.
+8134	Guest851 is loading onto bus 19.
+8135	Guest852 is loading onto bus 19.
+8136	Guest853 is loading onto bus 19.
+8137	Guest854 is loading onto bus 19.
+8138	Guest855 is loading onto bus 19.
+8139	Guest 1094 arrived. ECV=False.
+8139	Guest856 is loading onto bus 19.
+8140	Guest857 is loading onto bus 19.
+8141	Guest858 is loading onto bus 19.
+8142	Guest859 is loading onto bus 19.
+8143	Guest860 is loading onto bus 19.
+8144	Guest861 is loading onto bus 19.
+8145	Guest 1095 arrived. ECV=False.
+8145	Guest862 is loading onto bus 19.
+8146	Guest863 is loading onto bus 19.
+8147	 bus 19 is departing the loading zone with guests 816 to 863.
+8154	Guest 1096 arrived. ECV=False.
+8164	Guest 1097 arrived. ECV=False.
+8169	Guest 1098 arrived. ECV=False.
+8179	Guest 1099 arrived. ECV=False.
+8185	Guest 1100 arrived. ECV=False.
+8190	Guest 1101 arrived. ECV=False.
+8199	Guest 1102 arrived. ECV=False.
+8204	Guest 1103 arrived. ECV=False.
+8209	Guest 1104 arrived. ECV=False.
+8217	Guest 1105 arrived. ECV=False.
+8227	Guest 1106 arrived. ECV=False.
+8232	Guest 1107 arrived. ECV=False.
+8242	Guest 1108 arrived. ECV=False.
+8250	Guest 1109 arrived. ECV=False.
+8258	Guest 1110 arrived. ECV=False.
+8266	Guest 1111 arrived. ECV=False.
+8276	Guest 1112 arrived. ECV=False.
+8284	Guest 1113 arrived. ECV=False.
+8293	Guest 1114 arrived. ECV=False.
+8300	Guest 1115 arrived. ECV=False.
+8309	Guest 1116 arrived. ECV=False.
+8314	Guest 1117 arrived. ECV=False.
+8320	Guest 1118 arrived. ECV=False.
+8327	Guest 1119 arrived. ECV=False.
+8332	Guest 1120 arrived. ECV=False.
+8342	Guest 1121 arrived. ECV=False.
+8351	Guest 1122 arrived. ECV=False.
+8359	Guest 1123 arrived. ECV=False.
+8368	Guest 1124 arrived. ECV=False.
+8377	Guest 1125 arrived. ECV=False.
+8385	Guest 1126 arrived. ECV=False.
+8392	Guest 1127 arrived. ECV=False.
+8400	Bus 20 with 50 seats arrived.
+8400	Guest 1128 arrived. ECV=False.
+8400	Loading bus 20
+8400	Guest864 is loading onto bus 20.
+8410	Guest 1129 arrived. ECV=False.
+8419	Guest 1130 arrived. ECV=False.
+8427	Guest 1131 arrived. ECV=False.
+8435	Guest 1132 arrived. ECV=True.
+8441	Guest 1133 arrived. ECV=False.
+8447	Guest 1134 arrived. ECV=False.
+8453	Guest 1135 arrived. ECV=False.
+8460	Guest 1136 arrived. ECV=False.
+8466	Guest 1137 arrived. ECV=False.
+8475	Guest 1138 arrived. ECV=False.
+8482	Guest 1139 arrived. ECV=False.
+8487	Guest 1140 arrived. ECV=False.
+8493	Guest 1141 arrived. ECV=False.
+8500	Guest 1142 arrived. ECV=False.
+8508	Guest 1143 arrived. ECV=False.
+8518	Guest 1144 arrived. ECV=False.
+8520	Guest865 is loading onto bus 20.
+8521	Guest866 is loading onto bus 20.
+8522	Guest867 is loading onto bus 20.
+8523	Guest868 is loading onto bus 20.
+8524	Guest869 is loading onto bus 20.
+8525	Guest870 is loading onto bus 20.
+8526	Guest871 is loading onto bus 20.
+8527	Guest872 is loading onto bus 20.
+8528	Guest 1145 arrived. ECV=False.
+8528	Guest873 is loading onto bus 20.
+8529	Guest874 is loading onto bus 20.
+8530	Guest875 is loading onto bus 20.
+8531	Guest876 is loading onto bus 20.
+8532	Guest877 is loading onto bus 20.
+8533	Guest878 is loading onto bus 20.
+8534	Guest879 is loading onto bus 20.
+8535	Guest880 is loading onto bus 20.
+8536	Guest 1146 arrived. ECV=False.
+8536	Guest881 is loading onto bus 20.
+8537	Guest882 is loading onto bus 20.
+8538	Guest883 is loading onto bus 20.
+8539	Guest884 is loading onto bus 20.
+8540	Guest885 is loading onto bus 20.
+8541	Guest886 is loading onto bus 20.
+8542	Guest887 is loading onto bus 20.
+8543	Guest888 is loading onto bus 20.
+8544	Guest889 is loading onto bus 20.
+8545	Guest890 is loading onto bus 20.
+8546	Guest 1147 arrived. ECV=False.
+8546	Guest891 is loading onto bus 20.
+8547	Guest892 is loading onto bus 20.
+8548	Guest893 is loading onto bus 20.
+8549	Guest894 is loading onto bus 20.
+8550	Guest895 is loading onto bus 20.
+8551	Guest896 is loading onto bus 20.
+8552	Guest897 is loading onto bus 20.
+8553	Guest898 is loading onto bus 20.
+8554	Guest899 is loading onto bus 20.
+8555	Guest 1148 arrived. ECV=False.
+8555	Guest900 is loading onto bus 20.
+8556	Guest901 is loading onto bus 20.
+8557	Guest902 is loading onto bus 20.
+8558	Guest903 is loading onto bus 20.
+8559	Guest904 is loading onto bus 20.
+8560	Guest905 is loading onto bus 20.
+8561	Guest906 is loading onto bus 20.
+8562	Guest907 is loading onto bus 20.
+8563	Guest908 is loading onto bus 20.
+8564	Guest909 is loading onto bus 20.
+8565	Guest 1149 arrived. ECV=False.
+8565	Guest910 is loading onto bus 20.
+8566	Guest911 is loading onto bus 20.
+8567	 bus 20 is departing the loading zone with guests 864 to 911.
+8575	Guest 1150 arrived. ECV=False.
+8584	Guest 1151 arrived. ECV=False.
+8593	Guest 1152 arrived. ECV=False.
+8600	Guest 1153 arrived. ECV=False.
+8606	Guest 1154 arrived. ECV=False.
+8612	Guest 1155 arrived. ECV=False.
+8617	Guest 1156 arrived. ECV=False.
+8627	Guest 1157 arrived. ECV=False.
+8635	Guest 1158 arrived. ECV=False.
+8641	Guest 1159 arrived. ECV=False.
+8649	Guest 1160 arrived. ECV=False.
+8654	Guest 1161 arrived. ECV=True.
+8661	Guest 1162 arrived. ECV=False.
+8667	Guest 1163 arrived. ECV=False.
+8673	Guest 1164 arrived. ECV=False.
+8680	Guest 1165 arrived. ECV=False.
+8689	Guest 1166 arrived. ECV=False.
+8695	Guest 1167 arrived. ECV=False.
+8701	Guest 1168 arrived. ECV=False.
+8709	Guest 1169 arrived. ECV=False.
+8715	Guest 1170 arrived. ECV=False.
+8722	Guest 1171 arrived. ECV=False.
+8728	Guest 1172 arrived. ECV=False.
+8738	Guest 1173 arrived. ECV=False.
+8746	Guest 1174 arrived. ECV=False.
+8751	Guest 1175 arrived. ECV=False.
+8760	Guest 1176 arrived. ECV=False.
+8769	Guest 1177 arrived. ECV=False.
+8779	Guest 1178 arrived. ECV=False.
+8789	Guest 1179 arrived. ECV=False.
+8794	Guest 1180 arrived. ECV=False.
+8802	Guest 1181 arrived. ECV=False.
+8808	Guest 1182 arrived. ECV=False.
+8818	Guest 1183 arrived. ECV=False.
+8820	Bus 21 with 40 seats arrived.
+8820	Loading bus 21
+8820	Guest912 is loading onto bus 21.
+8821	Guest913 is loading onto bus 21.
+8822	Guest914 is loading onto bus 21.
+8823	Guest915 is loading onto bus 21.
+8824	Guest 1184 arrived. ECV=False.
+8824	Guest916 is loading onto bus 21.
+8825	Guest917 is loading onto bus 21.
+8826	Guest918 is loading onto bus 21.
+8827	Guest919 is loading onto bus 21.
+8828	Guest920 is loading onto bus 21.
+8829	Guest921 is loading onto bus 21.
+8830	Guest922 is loading onto bus 21.
+8831	Guest923 is loading onto bus 21.
+8832	Guest924 is loading onto bus 21.
+8833	Guest 1185 arrived. ECV=False.
+8833	Guest925 is loading onto bus 21.
+8834	Guest926 is loading onto bus 21.
+8835	Guest927 is loading onto bus 21.
+8836	Guest928 is loading onto bus 21.
+8837	Guest929 is loading onto bus 21.
+8838	Guest930 is loading onto bus 21.
+8839	Guest931 is loading onto bus 21.
+8840	Guest932 is loading onto bus 21.
+8841	Guest933 is loading onto bus 21.
+8842	Guest934 is loading onto bus 21.
+8843	Guest 1186 arrived. ECV=False.
+8843	Guest935 is loading onto bus 21.
+8844	Guest936 is loading onto bus 21.
+8845	Guest937 is loading onto bus 21.
+8846	Guest938 is loading onto bus 21.
+8847	Guest939 is loading onto bus 21.
+8848	Guest940 is loading onto bus 21.
+8849	Guest941 is loading onto bus 21.
+8850	Guest942 is loading onto bus 21.
+8851	Guest 1187 arrived. ECV=False.
+8851	Guest943 is loading onto bus 21.
+8852	Guest944 is loading onto bus 21.
+8853	Guest945 is loading onto bus 21.
+8854	Guest946 is loading onto bus 21.
+8855	Guest947 is loading onto bus 21.
+8856	Guest948 is loading onto bus 21.
+8857	Guest949 is loading onto bus 21.
+8858	Guest950 is loading onto bus 21.
+8859	Guest 1188 arrived. ECV=False.
+8859	Guest951 is loading onto bus 21.
+8860	 bus 21 is departing the loading zone with guests 912 to 951.
+8864	Guest 1189 arrived. ECV=False.
+8873	Guest 1190 arrived. ECV=False.
+8879	Guest 1191 arrived. ECV=False.
+8889	Guest 1192 arrived. ECV=False.
+8897	Guest 1193 arrived. ECV=False.
+8905	Guest 1194 arrived. ECV=False.
+8915	Guest 1195 arrived. ECV=True.
+8921	Guest 1196 arrived. ECV=False.
+8926	Guest 1197 arrived. ECV=False.
+8931	Guest 1198 arrived. ECV=False.
+8939	Guest 1199 arrived. ECV=False.
+8946	Guest 1200 arrived. ECV=False.
+8953	Guest 1201 arrived. ECV=False.
+8961	Guest 1202 arrived. ECV=False.
+8971	Guest 1203 arrived. ECV=False.
+8979	Guest 1204 arrived. ECV=False.
+8984	Guest 1205 arrived. ECV=False.
+8990	Guest 1206 arrived. ECV=False.
+8997	Guest 1207 arrived. ECV=False.
+9007	Guest 1208 arrived. ECV=False.
+9015	Guest 1209 arrived. ECV=False.
+9021	Guest 1210 arrived. ECV=False.
+9026	Guest 1211 arrived. ECV=False.
+9032	Guest 1212 arrived. ECV=False.
+9042	Guest 1213 arrived. ECV=False.
+9051	Guest 1214 arrived. ECV=False.
+9060	Guest 1215 arrived. ECV=False.
+9067	Guest 1216 arrived. ECV=False.
+9077	Guest 1217 arrived. ECV=False.
+9087	Guest 1218 arrived. ECV=False.
+9095	Guest 1219 arrived. ECV=False.
+9100	Guest 1220 arrived. ECV=False.
+9108	Guest 1221 arrived. ECV=False.
+9113	Guest 1222 arrived. ECV=False.
+9121	Guest 1223 arrived. ECV=False.
+9128	Guest 1224 arrived. ECV=False.
+9136	Guest 1225 arrived. ECV=False.
+9142	Guest 1226 arrived. ECV=False.
+9151	Guest 1227 arrived. ECV=False.
+9156	Guest 1228 arrived. ECV=False.
+9166	Guest 1229 arrived. ECV=False.
+9175	Guest 1230 arrived. ECV=False.
+9181	Guest 1231 arrived. ECV=False.
+9190	Guest 1232 arrived. ECV=False.
+9199	Guest 1233 arrived. ECV=False.
+9204	Guest 1234 arrived. ECV=False.
+9212	Guest 1235 arrived. ECV=False.
+9217	Guest 1236 arrived. ECV=False.
+9226	Guest 1237 arrived. ECV=False.
+9232	Guest 1238 arrived. ECV=False.
+9238	Guest 1239 arrived. ECV=False.
+9240	Bus 22 with 40 seats arrived.
+9240	Loading bus 22
+9240	Guest952 is loading onto bus 22.
+9241	Guest953 is loading onto bus 22.
+9242	Guest954 is loading onto bus 22.
+9243	Guest955 is loading onto bus 22.
+9244	Guest 1240 arrived. ECV=False.
+9244	Guest956 is loading onto bus 22.
+9245	Guest957 is loading onto bus 22.
+9246	Guest958 is loading onto bus 22.
+9247	Guest959 is loading onto bus 22.
+9248	Guest960 is loading onto bus 22.
+9249	Guest961 is loading onto bus 22.
+9250	Guest962 is loading onto bus 22.
+9251	Guest963 is loading onto bus 22.
+9252	Guest 1241 arrived. ECV=False.
+9252	Guest964 is loading onto bus 22.
+9253	Guest965 is loading onto bus 22.
+9254	Guest966 is loading onto bus 22.
+9255	Guest967 is loading onto bus 22.
+9256	Guest968 is loading onto bus 22.
+9257	Guest969 is loading onto bus 22.
+9258	Guest970 is loading onto bus 22.
+9259	Guest971 is loading onto bus 22.
+9260	Guest 1242 arrived. ECV=False.
+9260	Guest972 is loading onto bus 22.
+9261	Guest973 is loading onto bus 22.
+9262	Guest974 is loading onto bus 22.
+9263	Guest975 is loading onto bus 22.
+9264	Guest976 is loading onto bus 22.
+9265	Guest977 is loading onto bus 22.
+9266	Guest 1243 arrived. ECV=False.
+9266	Guest978 is loading onto bus 22.
+9267	Guest979 is loading onto bus 22.
+9268	Guest980 is loading onto bus 22.
+9269	Guest981 is loading onto bus 22.
+9270	Guest982 is loading onto bus 22.
+9271	Guest983 is loading onto bus 22.
+9272	Guest984 is loading onto bus 22.
+9273	Guest985 is loading onto bus 22.
+9274	Guest986 is loading onto bus 22.
+9275	Guest 1244 arrived. ECV=True.
+9275	Guest987 is loading onto bus 22.
+9276	Guest988 is loading onto bus 22.
+9277	Guest989 is loading onto bus 22.
+9278	Guest990 is loading onto bus 22.
+9279	Guest991 is loading onto bus 22.
+9280	 bus 22 is departing the loading zone with guests 952 to 991.
+9283	Guest 1245 arrived. ECV=False.
+9290	Guest 1246 arrived. ECV=False.
+9296	Guest 1247 arrived. ECV=False.
+9304	Guest 1248 arrived. ECV=False.
+9310	Guest 1249 arrived. ECV=False.
+9318	Guest 1250 arrived. ECV=False.
+9324	Guest 1251 arrived. ECV=False.
+9334	Guest 1252 arrived. ECV=False.
+9343	Guest 1253 arrived. ECV=False.
+9350	Guest 1254 arrived. ECV=False.
+9358	Guest 1255 arrived. ECV=False.
+9363	Guest 1256 arrived. ECV=False.
+9371	Guest 1257 arrived. ECV=False.
+9376	Guest 1258 arrived. ECV=False.
+9382	Guest 1259 arrived. ECV=False.
+9391	Guest 1260 arrived. ECV=False.
+9399	Guest 1261 arrived. ECV=False.
+9409	Guest 1262 arrived. ECV=False.
+9419	Guest 1263 arrived. ECV=True.
+9429	Guest 1264 arrived. ECV=False.
+9436	Guest 1265 arrived. ECV=False.
+9445	Guest 1266 arrived. ECV=False.
+9455	Guest 1267 arrived. ECV=False.
+9460	Guest 1268 arrived. ECV=False.
+9469	Guest 1269 arrived. ECV=False.
+9478	Guest 1270 arrived. ECV=False.
+9485	Guest 1271 arrived. ECV=False.
+9494	Guest 1272 arrived. ECV=False.
+9502	Guest 1273 arrived. ECV=False.
+9507	Guest 1274 arrived. ECV=False.
+9512	Guest 1275 arrived. ECV=False.
+9519	Guest 1276 arrived. ECV=False.
+9529	Guest 1277 arrived. ECV=False.
+9539	Guest 1278 arrived. ECV=False.
+9545	Guest 1279 arrived. ECV=False.
+9554	Guest 1280 arrived. ECV=False.
+9560	Guest 1281 arrived. ECV=False.
+9569	Guest 1282 arrived. ECV=False.
+9575	Guest 1283 arrived. ECV=False.
+9584	Guest 1284 arrived. ECV=False.
+9589	Guest 1285 arrived. ECV=False.
+9598	Guest 1286 arrived. ECV=False.
+9604	Guest 1287 arrived. ECV=False.
+9611	Guest 1288 arrived. ECV=False.
+9616	Guest 1289 arrived. ECV=False.
+9626	Guest 1290 arrived. ECV=False.
+9632	Guest 1291 arrived. ECV=False.
+9642	Guest 1292 arrived. ECV=False.
+9647	Guest 1293 arrived. ECV=False.
+9654	Guest 1294 arrived. ECV=False.
+9660	Bus 23 with 40 seats arrived.
+9660	Loading bus 23
+9660	Guest992 is loading onto bus 23.
+9661	Guest993 is loading onto bus 23.
+9662	Guest994 is loading onto bus 23.
+9663	Guest 1295 arrived. ECV=False.
+9663	Guest995 is loading onto bus 23.
+9664	Guest996 is loading onto bus 23.
+9665	Guest997 is loading onto bus 23.
+9666	Guest998 is loading onto bus 23.
+9667	Guest999 is loading onto bus 23.
+9668	Guest1000 is loading onto bus 23.
+9669	Guest1001 is loading onto bus 23.
+9670	Guest1002 is loading onto bus 23.
+9671	Guest1003 is loading onto bus 23.
+9672	Guest1004 is loading onto bus 23.
+9673	Guest 1296 arrived. ECV=False.
+9673	Guest1005 is loading onto bus 23.
+9674	Guest1006 is loading onto bus 23.
+9675	Guest1007 is loading onto bus 23.
+9676	Guest1008 is loading onto bus 23.
+9677	Guest1009 is loading onto bus 23.
+9678	Guest 1297 arrived. ECV=False.
+9678	Guest1010 is loading onto bus 23.
+9679	Guest1011 is loading onto bus 23.
+9680	Guest1012 is loading onto bus 23.
+9681	Guest1013 is loading onto bus 23.
+9682	Guest1014 is loading onto bus 23.
+9683	Guest1015 is loading onto bus 23.
+9684	Guest 1298 arrived. ECV=False.
+9684	Guest1016 is loading onto bus 23.
+9685	Guest1017 is loading onto bus 23.
+9686	Guest1018 is loading onto bus 23.
+9687	Guest1019 is loading onto bus 23.
+9688	Guest1020 is loading onto bus 23.
+9689	Guest1021 is loading onto bus 23.
+9690	Guest1022 is loading onto bus 23.
+9691	Guest1023 is loading onto bus 23.
+9692	Guest1024 is loading onto bus 23.
+9693	Guest 1299 arrived. ECV=False.
+9693	Guest1025 is loading onto bus 23.
+9694	Guest1026 is loading onto bus 23.
+9695	Guest1027 is loading onto bus 23.
+9696	Guest1028 is loading onto bus 23.
+9697	Guest1029 is loading onto bus 23.
+9698	Guest 1300 arrived. ECV=False.
+9698	Guest1030 is loading onto bus 23.
+9699	Guest1031 is loading onto bus 23.
+9700	 bus 23 is departing the loading zone with guests 992 to 1031.
+9706	Guest 1301 arrived. ECV=False.
+9712	Guest 1302 arrived. ECV=False.
+9721	Guest 1303 arrived. ECV=False.
+9728	Guest 1304 arrived. ECV=False.
+9734	Guest 1305 arrived. ECV=False.
+9741	Guest 1306 arrived. ECV=False.
+9750	Guest 1307 arrived. ECV=False.
+9760	Guest 1308 arrived. ECV=False.
+9769	Guest 1309 arrived. ECV=False.
+9775	Guest 1310 arrived. ECV=False.
+9785	Guest 1311 arrived. ECV=False.
+9790	Guest 1312 arrived. ECV=True.
+9799	Guest 1313 arrived. ECV=False.
+9809	Guest 1314 arrived. ECV=False.
+9816	Guest 1315 arrived. ECV=False.
+9822	Guest 1316 arrived. ECV=False.
+9830	Guest 1317 arrived. ECV=False.
+9837	Guest 1318 arrived. ECV=False.
+9845	Guest 1319 arrived. ECV=False.
+9854	Guest 1320 arrived. ECV=False.
+9863	Guest 1321 arrived. ECV=False.
+9868	Guest 1322 arrived. ECV=False.
+9878	Guest 1323 arrived. ECV=False.
+9887	Guest 1324 arrived. ECV=False.
+9897	Guest 1325 arrived. ECV=False.
+9905	Guest 1326 arrived. ECV=True.
+9912	Guest 1327 arrived. ECV=False.
+9919	Guest 1328 arrived. ECV=False.
+9924	Guest 1329 arrived. ECV=False.
+9933	Guest 1330 arrived. ECV=False.
+9940	Guest 1331 arrived. ECV=False.
+9945	Guest 1332 arrived. ECV=False.
+9953	Guest 1333 arrived. ECV=False.
+9961	Guest 1334 arrived. ECV=False.
+9971	Guest 1335 arrived. ECV=False.
+9977	Guest 1336 arrived. ECV=False.
+9984	Guest 1337 arrived. ECV=False.
+9993	Guest 1338 arrived. ECV=False.
+10001	Guest 1339 arrived. ECV=False.
+10011	Guest 1340 arrived. ECV=False.
+10016	Guest 1341 arrived. ECV=False.
+10025	Guest 1342 arrived. ECV=False.
+10034	Guest 1343 arrived. ECV=False.
+10040	Guest 1344 arrived. ECV=False.
+10046	Guest 1345 arrived. ECV=False.
+10051	Guest 1346 arrived. ECV=False.
+10057	Guest 1347 arrived. ECV=False.
+10065	Guest 1348 arrived. ECV=False.
+10073	Guest 1349 arrived. ECV=False.
+10080	Bus 24 with 40 seats arrived.
+10080	Loading bus 24
+10080	Guest1032 is loading onto bus 24.
+10081	Guest1033 is loading onto bus 24.
+10082	Guest 1350 arrived. ECV=False.
+10082	Guest1034 is loading onto bus 24.
+10083	Guest1035 is loading onto bus 24.
+10084	Guest1036 is loading onto bus 24.
+10085	Guest1037 is loading onto bus 24.
+10086	Guest1038 is loading onto bus 24.
+10087	Guest1039 is loading onto bus 24.
+10088	Guest1040 is loading onto bus 24.
+10089	Guest 1351 arrived. ECV=False.
+10089	Guest1041 is loading onto bus 24.
+10096	Guest 1352 arrived. ECV=False.
+10102	Guest 1353 arrived. ECV=False.
+10109	Guest 1354 arrived. ECV=False.
+10116	Guest 1355 arrived. ECV=False.
+10123	Guest 1356 arrived. ECV=False.
+10131	Guest 1357 arrived. ECV=False.
+10137	Guest 1358 arrived. ECV=False.
+10142	Guest 1359 arrived. ECV=True.
+10149	Guest 1360 arrived. ECV=False.
+10158	Guest 1361 arrived. ECV=False.
+10167	Guest 1362 arrived. ECV=False.
+10175	Guest 1363 arrived. ECV=False.
+10185	Guest 1364 arrived. ECV=False.
+10190	Guest 1365 arrived. ECV=False.
+10198	Guest 1366 arrived. ECV=False.
+10208	Guest 1367 arrived. ECV=False.
+10209	Guest1042 is loading onto bus 24.
+10210	Guest1043 is loading onto bus 24.
+10211	Guest1044 is loading onto bus 24.
+10212	Guest1045 is loading onto bus 24.
+10213	Guest1046 is loading onto bus 24.
+10214	Guest1047 is loading onto bus 24.
+10215	Guest1048 is loading onto bus 24.
+10216	Guest 1368 arrived. ECV=False.
+10216	Guest1049 is loading onto bus 24.
+10217	Guest1050 is loading onto bus 24.
+10218	Guest1051 is loading onto bus 24.
+10219	Guest1052 is loading onto bus 24.
+10220	Guest1053 is loading onto bus 24.
+10221	Guest1054 is loading onto bus 24.
+10222	Guest 1369 arrived. ECV=False.
+10222	Guest1055 is loading onto bus 24.
+10223	Guest1056 is loading onto bus 24.
+10224	Guest1057 is loading onto bus 24.
+10225	Guest1058 is loading onto bus 24.
+10226	Guest1059 is loading onto bus 24.
+10227	Guest1060 is loading onto bus 24.
+10228	Guest 1370 arrived. ECV=False.
+10228	Guest1061 is loading onto bus 24.
+10229	Guest1062 is loading onto bus 24.
+10230	Guest1063 is loading onto bus 24.
+10231	Guest1064 is loading onto bus 24.
+10232	Guest1065 is loading onto bus 24.
+10233	Guest1066 is loading onto bus 24.
+10234	Guest1067 is loading onto bus 24.
+10235	Guest1068 is loading onto bus 24.
+10236	Guest 1371 arrived. ECV=False.
+10236	Guest1069 is loading onto bus 24.
+10237	 bus 24 is departing the loading zone with guests 1032 to 1069.
+10242	Guest 1372 arrived. ECV=False.
+10248	Guest 1373 arrived. ECV=False.
+10254	Guest 1374 arrived. ECV=False.
+10259	Guest 1375 arrived. ECV=False.
+10267	Guest 1376 arrived. ECV=False.
+10276	Guest 1377 arrived. ECV=False.
+10281	Guest 1378 arrived. ECV=False.
+10287	Guest 1379 arrived. ECV=False.
+10294	Guest 1380 arrived. ECV=False.
+10299	Guest 1381 arrived. ECV=False.
+10306	Guest 1382 arrived. ECV=False.
+10311	Guest 1383 arrived. ECV=False.
+10318	Guest 1384 arrived. ECV=False.
+10324	Guest 1385 arrived. ECV=False.
+10334	Guest 1386 arrived. ECV=False.
+10340	Guest 1387 arrived. ECV=False.
+10349	Guest 1388 arrived. ECV=False.
+10358	Guest 1389 arrived. ECV=False.
+10366	Guest 1390 arrived. ECV=False.
+10375	Guest 1391 arrived. ECV=False.
+10381	Guest 1392 arrived. ECV=False.
+10387	Guest 1393 arrived. ECV=False.
+10395	Guest 1394 arrived. ECV=False.
+10402	Guest 1395 arrived. ECV=False.
+10409	Guest 1396 arrived. ECV=False.
+10419	Guest 1397 arrived. ECV=False.
+10426	Guest 1398 arrived. ECV=False.
+10431	Guest 1399 arrived. ECV=False.
+10436	Guest 1400 arrived. ECV=False.
+10445	Guest 1401 arrived. ECV=False.
+10451	Guest 1402 arrived. ECV=False.
+10457	Guest 1403 arrived. ECV=False.
+10465	Guest 1404 arrived. ECV=False.
+10471	Guest 1405 arrived. ECV=False.
+10476	Guest 1406 arrived. ECV=False.
+10486	Guest 1407 arrived. ECV=False.
+10494	Guest 1408 arrived. ECV=False.
+10499	Guest 1409 arrived. ECV=False.
+10500	Bus 25 with 50 seats arrived.
+10500	Loading bus 25
+10500	Guest1070 is loading onto bus 25.
+10501	Guest1071 is loading onto bus 25.
+10502	Guest1072 is loading onto bus 25.
+10503	Guest1073 is loading onto bus 25.
+10504	Guest1074 is loading onto bus 25.
+10505	Guest 1410 arrived. ECV=False.
+10505	Guest1075 is loading onto bus 25.
+10506	Guest1076 is loading onto bus 25.
+10507	Guest1077 is loading onto bus 25.
+10508	Guest1078 is loading onto bus 25.
+10509	Guest1079 is loading onto bus 25.
+10510	Guest1080 is loading onto bus 25.
+10511	Guest1081 is loading onto bus 25.
+10512	Guest1082 is loading onto bus 25.
+10513	Guest1083 is loading onto bus 25.
+10514	Guest1084 is loading onto bus 25.
+10515	Guest 1411 arrived. ECV=False.
+10515	Guest1085 is loading onto bus 25.
+10516	Guest1086 is loading onto bus 25.
+10517	Guest1087 is loading onto bus 25.
+10518	Guest1088 is loading onto bus 25.
+10519	Guest1089 is loading onto bus 25.
+10520	Guest1090 is loading onto bus 25.
+10521	Guest1091 is loading onto bus 25.
+10522	Guest 1412 arrived. ECV=False.
+10522	Guest1092 is loading onto bus 25.
+10523	Guest1093 is loading onto bus 25.
+10524	Guest1094 is loading onto bus 25.
+10525	Guest1095 is loading onto bus 25.
+10526	Guest1096 is loading onto bus 25.
+10527	Guest1097 is loading onto bus 25.
+10528	Guest1098 is loading onto bus 25.
+10529	Guest1099 is loading onto bus 25.
+10530	Guest 1413 arrived. ECV=False.
+10530	Guest1100 is loading onto bus 25.
+10531	Guest1101 is loading onto bus 25.
+10532	Guest1102 is loading onto bus 25.
+10533	Guest1103 is loading onto bus 25.
+10534	Guest1104 is loading onto bus 25.
+10535	Guest1105 is loading onto bus 25.
+10536	Guest 1414 arrived. ECV=False.
+10536	Guest1106 is loading onto bus 25.
+10537	Guest1107 is loading onto bus 25.
+10538	Guest1108 is loading onto bus 25.
+10539	Guest1109 is loading onto bus 25.
+10540	Guest1110 is loading onto bus 25.
+10541	Guest1111 is loading onto bus 25.
+10542	Guest1112 is loading onto bus 25.
+10543	Guest1113 is loading onto bus 25.
+10544	Guest1114 is loading onto bus 25.
+10545	Guest 1415 arrived. ECV=False.
+10545	Guest1115 is loading onto bus 25.
+10546	Guest1116 is loading onto bus 25.
+10547	Guest1117 is loading onto bus 25.
+10548	Guest1118 is loading onto bus 25.
+10549	Guest1119 is loading onto bus 25.
+10550	Guest 1416 arrived. ECV=False.
+10550	 bus 25 is departing the loading zone with guests 1070 to 1119.
+10558	Guest 1417 arrived. ECV=False.
+10564	Guest 1418 arrived. ECV=False.
+10571	Guest 1419 arrived. ECV=False.
+10579	Guest 1420 arrived. ECV=False.
+10584	Guest 1421 arrived. ECV=False.
+10593	Guest 1422 arrived. ECV=True.
+10598	Guest 1423 arrived. ECV=False.
+10603	Guest 1424 arrived. ECV=False.
+10612	Guest 1425 arrived. ECV=False.
+10618	Guest 1426 arrived. ECV=False.
+10625	Guest 1427 arrived. ECV=False.
+10635	Guest 1428 arrived. ECV=False.
+10643	Guest 1429 arrived. ECV=False.
+10652	Guest 1430 arrived. ECV=False.
+10660	Guest 1431 arrived. ECV=False.
+10666	Guest 1432 arrived. ECV=False.
+10676	Guest 1433 arrived. ECV=False.
+10685	Guest 1434 arrived. ECV=False.
+10693	Guest 1435 arrived. ECV=True.
+10703	Guest 1436 arrived. ECV=False.
+10710	Guest 1437 arrived. ECV=False.
+10715	Guest 1438 arrived. ECV=False.
+10723	Guest 1439 arrived. ECV=False.
+10729	Guest 1440 arrived. ECV=False.
+10738	Guest 1441 arrived. ECV=False.
+10744	Guest 1442 arrived. ECV=False.
+10752	Guest 1443 arrived. ECV=False.
+10757	Guest 1444 arrived. ECV=False.
+10762	Guest 1445 arrived. ECV=False.
+10767	Guest 1446 arrived. ECV=False.
+10776	Guest 1447 arrived. ECV=False.
+10786	Guest 1448 arrived. ECV=True.
+10793	Guest 1449 arrived. ECV=False.
+10798	Guest 1450 arrived. ECV=False.
