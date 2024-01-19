@@ -165,8 +165,3 @@ cython_debug/
 *.xcf
 # Python secrets
 config_secrets.py
-# csv data files
-*.csv
-# Excel fils
-*.xls
-*.xlsx
