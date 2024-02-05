@@ -4,6 +4,31 @@ I hope you find these projects as interesting as I have!
 
 # Contents
 
+## Taylor Swift Eras Song Data
+
+- tags: python, plotly, interactive, data analysis, API, requests
+- [Link to project](https://nbviewer.org/github/jaredcarter/data-science-portfolio/blob/main/spotify-data/Eras.ipynb)
+
+Taylor Swift music is popular in my household.
+Given the recent success of her Eras tour, I decided to look into the popularity and audio features of her different albums.
+This allowed me to explore the functionality of the interactive plotting library plotly.
+
+## Airport Usage by Private Planes
+
+- tags: python, pandas, seaborn, visualization, exploratory data analysis, FBOs
+- [Link to project](private-planes/Private%20Planes%20at%20Airports.ipynb)
+
+After recently learning about fixed base operators (FBOs), I used publicly available FAA data to determine which regional airports have the most small airplane traffic.
+I used exploratory data analysis and visualization techniques to identify the most heavily used airports and identified airports which have been growing the most rapidly.
+
+## Customer Segmentation from Online Retailer Data
+
+- tags: python, scikit-learn, unsupervised learning, clustering analysis, RFM
+- [Link to project](customer-segmentation/Customer%20Segmentation.ipynb)
+
+Customers are not one giant monolith, all thinking the same way and making the same decisions. Inside any customer base there are usually different factions, each with their own preferences. An advertisement or promotion that is received favorably by one faction may have no effect on other factions. Additionally, with the quantity of data and customers it generally isn't feasible to consider every potential new customer and manually decide which "bucket" this customer falls into. By automatically segmenting customers into different groups based off of data, we can better understand the kinds of customers that constitute the customer base and attempt to cater to each group's specific interests, increasing customer satisfaction (and sales).
+
+
 ## Time Series Analysis with Increasingly Complex Methods
 
 - tags: statsmodels, ARIMA, time-series analysis, autoregression, exponential smoothing, python
